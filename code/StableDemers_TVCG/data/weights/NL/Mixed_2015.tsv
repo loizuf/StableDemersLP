@@ -1,0 +1,515 @@
+code	name	OAD_2015	OPP_WATER_2015	AANT_INW_2015	BEV_DICHTH_2015
+GM0003	Appingedam	1020.0	81.0	12011.0	505.0
+GM0005	Bedum	673.0	41.0	10441.0	234.0
+GM0007	Bellingwedde	151.0	172.0	9154.0	84.0
+GM0009	Ten Boer	367.0	42.0	7452.0	164.0
+GM0010	Delfzijl	676.0	9437.0	25409.0	191.0
+GM0014	Groningen	3325.0	548.0	200336.0	2559.0
+GM0015	Grootegast	227.0	104.0	12123.0	140.0
+GM0017	Haren	864.0	522.0	18924.0	416.0
+GM0018	Hoogezand-Sappemeer	1246.0	637.0	34334.0	515.0
+GM0022	Leek	726.0	106.0	19478.0	308.0
+GM0024	Loppersum	207.0	95.0	10140.0	91.0
+GM0025	Marum	331.0	43.0	10311.0	160.0
+GM0034	Almere	1565.0	11946.0	196932.0	1523.0
+GM0037	Stadskanaal	838.0	231.0	32610.0	277.0
+GM0039	Scheemda	null	null	null	null
+GM0040	Slochteren	214.0	828.0	15583.0	103.0
+GM0047	Veendam	988.0	268.0	27695.0	364.0
+GM0048	Vlagtwedde	356.0	322.0	16212.0	97.0
+GM0050	Zeewolde	795.0	2112.0	21894.0	88.0
+GM0051	Skarsterlân	null	null	null	null
+GM0052	Winschoten	null	null	null	null
+GM0053	Winsum	432.0	144.0	13774.0	136.0
+GM0055	Boarnsterhim	null	null	null	null
+GM0056	Zuidhorn	404.0	288.0	18733.0	149.0
+GM0058	Dongeradeel	548.0	10009.0	23983.0	144.0
+GM0059	Achtkarspelen	419.0	170.0	27983.0	274.0
+GM0060	Ameland	247.0	20981.0	3590.0	61.0
+GM0063	het Bildt	289.0	2415.0	10592.0	115.0
+GM0064	Bolsward	null	null	null	null
+GM0065	Dantumadeel	null	null	null	null
+GM0070	Franekeradeel	691.0	656.0	20328.0	198.0
+GM0072	Harlingen	1028.0	36271.0	15779.0	632.0
+GM0074	Heerenveen	1085.0	800.0	50141.0	264.0
+GM0079	Kollumerland c.a.	361.0	674.0	12835.0	117.0
+GM0080	Leeuwarden	2181.0	1584.0	107691.0	697.0
+GM0081	Leeuwarderadeel	546.0	57.0	10221.0	250.0
+GM0082	Lemsterland	null	null	null	null
+GM0083	Menaldumadeel	null	null	null	null
+GM0085	Ooststellingwerf	476.0	212.0	25617.0	114.0
+GM0086	Opsterland	392.0	314.0	29859.0	133.0
+GM0088	Schiermonnikoog	305.0	16201.0	926.0	25.0
+GM0090	Smallingerland	1323.0	846.0	55635.0	473.0
+GM0091	Sneek	null	null	null	null
+GM0093	Terschelling	235.0	59052.0	4827.0	58.0
+GM0096	Vlieland	190.0	28005.0	1103.0	31.0
+GM0098	Weststellingwerf	662.0	768.0	25525.0	116.0
+GM0104	Nijefurd	null	null	null	null
+GM0106	Assen	1530.0	157.0	67165.0	820.0
+GM0109	Coevorden	494.0	371.0	35535.0	120.0
+GM0114	Emmen	834.0	1063.0	107775.0	321.0
+GM0118	Hoogeveen	1164.0	170.0	54860.0	430.0
+GM0119	Meppel	1234.0	148.0	32799.0	590.0
+GM0140	Littenseradiel	129.0	198.0	10879.0	83.0
+GM0141	Almelo	1537.0	211.0	72291.0	1074.0
+GM0144	Bathmen	null	null	null	null
+GM0147	Borne	1207.0	16.0	21992.0	846.0
+GM0148	Dalfsen	486.0	140.0	27677.0	168.0
+GM0150	Deventer	1690.0	309.0	98540.0	751.0
+GM0153	Enschede	2089.0	174.0	158553.0	1125.0
+GM0158	Haaksbergen	999.0	68.0	24307.0	232.0
+GM0160	Hardenberg	529.0	489.0	59577.0	191.0
+GM0163	Hellendoorn	798.0	104.0	35622.0	258.0
+GM0164	Hengelo (O.)	1806.0	94.0	81059.0	1331.0
+GM0166	Kampen	1402.0	1955.0	51432.0	362.0
+GM0168	Losser	731.0	86.0	22467.0	228.0
+GM0171	Noordoostpolder	739.0	13541.0	46479.0	101.0
+GM0173	Oldenzaal	1442.0	40.0	32120.0	1490.0
+GM0175	Ommen	463.0	206.0	17341.0	96.0
+GM0177	Raalte	645.0	124.0	36603.0	214.0
+GM0180	Staphorst	353.0	152.0	16421.0	122.0
+GM0183	Tubbergen	273.0	43.0	21142.0	144.0
+GM0184	Urk	1039.0	9840.0	19705.0	1712.0
+GM0189	Wierden	677.0	67.0	23874.0	252.0
+GM0193	Zwolle	1944.0	806.0	123861.0	1113.0
+GM0196	Rijnwaarden	379.0	844.0	10912.0	275.0
+GM0197	Aalten	780.0	52.0	26904.0	279.0
+GM0199	Angerlo	null	null	null	null
+GM0200	Apeldoorn	1689.0	127.0	158099.0	465.0
+GM0202	Arnhem	2079.0	358.0	152293.0	1555.0
+GM0203	Barneveld	814.0	69.0	54703.0	311.0
+GM0207	Bergh	null	null	null	null
+GM0209	Beuningen	954.0	345.0	25282.0	579.0
+GM0211	Borculo	null	null	null	null
+GM0213	Brummen	761.0	106.0	20983.0	250.0
+GM0214	Buren	264.0	866.0	26117.0	195.0
+GM0216	Culemborg	1429.0	173.0	27560.0	937.0
+GM0218	Didam	null	null	null	null
+GM0219	Dinxperlo	null	null	null	null
+GM0221	Doesburg	838.0	139.0	11355.0	982.0
+GM0222	Doetinchem	1115.0	59.0	56484.0	714.0
+GM0225	Druten	769.0	478.0	18294.0	485.0
+GM0226	Duiven	1147.0	127.0	25548.0	753.0
+GM0228	Ede	1440.0	37.0	111575.0	351.0
+GM0229	Eibergen	null	null	null	null
+GM0230	Elburg	650.0	209.0	22843.0	358.0
+GM0232	Epe	701.0	107.0	32214.0	206.0
+GM0233	Ermelo	832.0	170.0	26190.0	306.0
+GM0236	Geldermalsen	588.0	183.0	26323.0	264.0
+GM0237	Gendringen	null	null	null	null
+GM0239	Gorssel	null	null	null	null
+GM0240	Groenlo	null	null	null	null
+GM0241	Groesbeek	617.0	681.0	34258.0	396.0
+GM0243	Harderwijk	1490.0	963.0	45776.0	1185.0
+GM0244	Hattem	830.0	108.0	11821.0	512.0
+GM0246	Heerde	603.0	168.0	18512.0	235.0
+GM0248	Hengelo (Gld.)	null	null	null	null
+GM0252	Heumen	785.0	171.0	16383.0	411.0
+GM0256	Hummelo en Keppel	null	null	null	null
+GM0260	Lichtenvoorde	null	null	null	null
+GM0262	Lochem	592.0	280.0	33244.0	156.0
+GM0263	Maasdriel	476.0	934.0	24185.0	366.0
+GM0265	Millingen aan de Rijn	null	null	null	null
+GM0266	Neede	null	null	null	null
+GM0267	Nijkerk	1047.0	262.0	40870.0	589.0
+GM0268	Nijmegen	2408.0	398.0	170681.0	3183.0
+GM0269	Oldebroek	622.0	117.0	23001.0	236.0
+GM0273	Putten	874.0	232.0	24377.0	286.0
+GM0274	Renkum	881.0	126.0	31408.0	683.0
+GM0275	Rheden	1443.0	259.0	43625.0	534.0
+GM0277	Rozendaal	884.0	2.0	1509.0	54.0
+GM0278	Ruurlo	null	null	null	null
+GM0279	Scherpenzeel	858.0	3.0	9522.0	691.0
+GM0280	Steenderen	null	null	null	null
+GM0281	Tiel	1406.0	256.0	41590.0	1262.0
+GM0282	Ubbergen	null	null	null	null
+GM0285	Voorst	590.0	339.0	23913.0	194.0
+GM0286	Vorden	null	null	null	null
+GM0289	Wageningen	2123.0	189.0	37786.0	1240.0
+GM0291	Warnsveld	null	null	null	null
+GM0292	Wehl	null	null	null	null
+GM0293	Westervoort	1135.0	82.0	14992.0	2137.0
+GM0294	Winterswijk	1169.0	85.0	28977.0	210.0
+GM0295	Wisch	null	null	null	null
+GM0296	Wijchen	1189.0	327.0	40886.0	617.0
+GM0297	Zaltbommel	652.0	941.0	27358.0	344.0
+GM0298	Zelhem	null	null	null	null
+GM0299	Zevenaar	1255.0	473.0	32265.0	606.0
+GM0301	Zutphen	1594.0	195.0	46849.0	1143.0
+GM0302	Nunspeet	732.0	74.0	26744.0	208.0
+GM0303	Dronten	761.0	9017.0	40363.0	121.0
+GM0304	Neerijnen	184.0	688.0	12038.0	182.0
+GM0305	Abcoude	null	null	null	null
+GM0306	Amerongen	null	null	null	null
+GM0307	Amersfoort	2231.0	105.0	152481.0	2427.0
+GM0308	Baarn	1600.0	50.0	24406.0	751.0
+GM0310	De Bilt	1230.0	84.0	42169.0	636.0
+GM0311	Breukelen	null	null	null	null
+GM0312	Bunnik	644.0	59.0	14662.0	396.0
+GM0313	Bunschoten	1130.0	437.0	20647.0	678.0
+GM0315	Doorn	null	null	null	null
+GM0316	Driebergen-Rijsenburg	null	null	null	null
+GM0317	Eemnes	875.0	265.0	8807.0	284.0
+GM0321	Houten	1437.0	383.0	48637.0	882.0
+GM0326	Leersum	null	null	null	null
+GM0327	Leusden	1211.0	25.0	29062.0	496.0
+GM0329	Loenen	null	null	null	null
+GM0331	Lopik	353.0	323.0	14099.0	186.0
+GM0332	Maarn	null	null	null	null
+GM0333	Maarssen	null	null	null	null
+GM0335	Montfoort	732.0	52.0	13672.0	363.0
+GM0339	Renswoude	430.0	9.0	4976.0	270.0
+GM0340	Rhenen	888.0	168.0	19308.0	459.0
+GM0342	Soest	1459.0	18.0	45454.0	983.0
+GM0344	Utrecht	3332.0	494.0	334176.0	3545.0
+GM0345	Veenendaal	2116.0	22.0	63440.0	3253.0
+GM0351	Woudenberg	884.0	29.0	12487.0	342.0
+GM0352	Wijk bij Duurstede	1113.0	270.0	23222.0	488.0
+GM0353	IJsselstein	1789.0	58.0	34061.0	1614.0
+GM0355	Zeist	1547.0	14.0	61641.0	1271.0
+GM0356	Nieuwegein	1888.0	201.0	61264.0	2592.0
+GM0358	Aalsmeer	891.0	1189.0	31077.0	1524.0
+GM0361	Alkmaar	2209.0	684.0	107106.0	969.0
+GM0362	Amstelveen	2538.0	266.0	87162.0	2104.0
+GM0363	Amsterdam	5968.0	5360.0	821752.0	4954.0
+GM0364	Andijk	null	null	null	null
+GM0365	Graft-De Rijp	null	null	null	null
+GM0366	Anna Paulowna	null	null	null	null
+GM0370	Beemster	571.0	149.0	8903.0	126.0
+GM0372	Bennebroek	null	null	null	null
+GM0373	Bergen (NH.)	793.0	2234.0	30005.0	309.0
+GM0375	Beverwijk	2681.0	177.0	40182.0	2194.0
+GM0376	Blaricum	930.0	441.0	9312.0	835.0
+GM0377	Bloemendaal	1053.0	543.0	22256.0	560.0
+GM0381	Bussum	2474.0	7.0	32870.0	4066.0
+GM0383	Castricum	1332.0	1086.0	34361.0	694.0
+GM0384	Diemen	2415.0	205.0	26666.0	2224.0
+GM0385	Edam-Volendam	1495.0	849.0	29087.0	1785.0
+GM0388	Enkhuizen	1380.0	10356.0	18345.0	1446.0
+GM0392	Haarlem	3440.0	287.0	156645.0	5360.0
+GM0393	Haarlemmerliede c.a.	624.0	192.0	5574.0	289.0
+GM0394	Haarlemmermeer	1540.0	644.0	144152.0	807.0
+GM0395	Harenkarspel	null	null	null	null
+GM0396	Heemskerk	2300.0	446.0	39138.0	1438.0
+GM0397	Heemstede	1713.0	43.0	26480.0	2874.0
+GM0398	Heerhugowaard	1683.0	166.0	53554.0	1397.0
+GM0399	Heiloo	1279.0	30.0	22553.0	1205.0
+GM0400	Den Helder	1701.0	13371.0	56483.0	1253.0
+GM0402	Hilversum	2589.0	73.0	87161.0	1911.0
+GM0405	Hoorn	1652.0	3309.0	71880.0	3530.0
+GM0406	Huizen	1931.0	752.0	41315.0	2614.0
+GM0412	Niedorp	null	null	null	null
+GM0415	Landsmeer	973.0	397.0	10823.0	480.0
+GM0416	Langedijk	886.0	306.0	27287.0	1138.0
+GM0417	Laren	1044.0	null	10857.0	875.0
+GM0420	Medemblik	508.0	13616.0	43604.0	359.0
+GM0424	Muiden	448.0	2204.0	6249.0	432.0
+GM0425	Naarden	1215.0	1149.0	17209.0	804.0
+GM0429	Obdam	null	null	null	null
+GM0431	Oostzaan	1061.0	453.0	9187.0	796.0
+GM0432	Opmeer	494.0	41.0	11301.0	272.0
+GM0437	Ouder-Amstel	1213.0	166.0	13289.0	551.0
+GM0439	Purmerend	2158.0	134.0	79611.0	3428.0
+GM0441	Schagen	712.0	1952.0	46137.0	275.0
+GM0448	Texel	455.0	30164.0	13581.0	84.0
+GM0450	Uitgeest	1083.0	313.0	13291.0	694.0
+GM0451	Uithoorn	1415.0	118.0	28731.0	1575.0
+GM0453	Velsen	1815.0	1828.0	67166.0	1500.0
+GM0454	Venhuizen	null	null	null	null
+GM0457	Weesp	1724.0	133.0	18348.0	895.0
+GM0458	Schermer	null	null	null	null
+GM0459	Wervershoof	null	null	null	null
+GM0462	Wieringen	null	null	null	null
+GM0463	Wieringermeer	null	null	null	null
+GM0466	Wognum	null	null	null	null
+GM0473	Zandvoort	1776.0	1190.0	16692.0	520.0
+GM0476	Zijpe	null	null	null	null
+GM0478	Zeevang	258.0	1715.0	6306.0	166.0
+GM0479	Zaanstad	1981.0	932.0	151418.0	2048.0
+GM0480	Ter Aar	null	null	null	null
+GM0482	Alblasserdam	1485.0	129.0	19845.0	2262.0
+GM0483	Alkemade	null	null	null	null
+GM0484	Alphen aan den Rijn	1740.0	602.0	107396.0	849.0
+GM0489	Barendrecht	1643.0	182.0	47521.0	2387.0
+GM0491	Bergambacht	null	null	null	null
+GM0492	Bergschenhoek	null	null	null	null
+GM0493	Berkel en Rodenrijs	null	null	null	null
+GM0495	Bleiswijk	null	null	null	null
+GM0497	Bodegraven	null	null	null	null
+GM0498	Drechterland	471.0	2161.0	19294.0	327.0
+GM0499	Boskoop	null	null	null	null
+GM0501	Brielle	847.0	354.0	16467.0	597.0
+GM0502	Capelle aan den IJssel	2255.0	118.0	66478.0	4676.0
+GM0503	Delft	3442.0	123.0	101030.0	4425.0
+GM0504	Dirksland	null	null	null	null
+GM0505	Dordrecht	2503.0	2064.0	118899.0	1508.0
+GM0511	Goedereede	null	null	null	null
+GM0512	Gorinchem	1721.0	306.0	35338.0	1872.0
+GM0513	Gouda	2442.0	127.0	71105.0	4222.0
+GM0517	's-Gravendeel	null	null	null	null
+GM0518	's-Gravenhage	4751.0	1624.0	514861.0	6289.0
+GM0523	Hardinxveld-Giessendam	949.0	243.0	17802.0	1052.0
+GM0529	Noorder-Koggenland	null	null	null	null
+GM0530	Hellevoetsluis	1568.0	1471.0	38882.0	1232.0
+GM0531	Hendrik-Ido-Ambacht	1721.0	130.0	29156.0	2750.0
+GM0532	Stede Broec	1116.0	182.0	21498.0	1478.0
+GM0534	Hillegom	1514.0	56.0	21101.0	1635.0
+GM0537	Katwijk	2092.0	659.0	63633.0	2593.0
+GM0542	Krimpen aan den IJssel	1914.0	127.0	28970.0	3773.0
+GM0545	Leerdam	1217.0	62.0	20568.0	609.0
+GM0546	Leiden	3521.0	134.0	121562.0	5542.0
+GM0547	Leiderdorp	2414.0	73.0	26853.0	2325.0
+GM0553	Lisse	1562.0	36.0	22539.0	1436.0
+GM0556	Maassluis	1964.0	163.0	32201.0	3792.0
+GM0558	Wester-Koggenland	null	null	null	null
+GM0559	Middelharnis	null	null	null	null
+GM0563	Moordrecht	null	null	null	null
+GM0567	Nieuwerkerk aan den IJssel	null	null	null	null
+GM0568	Bernisse	null	null	null	null
+GM0569	Nieuwkoop	470.0	1234.0	27114.0	344.0
+GM0571	Nieuw-Lekkerland	null	null	null	null
+GM0575	Noordwijk	1488.0	1595.0	25604.0	721.0
+GM0576	Noordwijkerhout	1055.0	83.0	16063.0	711.0
+GM0579	Oegstgeest	1758.0	67.0	22997.0	3151.0
+GM0580	Oostflakkee	null	null	null	null
+GM0584	Oud-Beijerland	1365.0	88.0	23702.0	1265.0
+GM0585	Binnenmaas	650.0	626.0	28656.0	413.0
+GM0588	Korendijk	313.0	2411.0	10778.0	141.0
+GM0589	Oudewater	822.0	102.0	9924.0	254.0
+GM0590	Papendrecht	1879.0	139.0	32188.0	3424.0
+GM0595	Reeuwijk	null	null	null	null
+GM0597	Ridderkerk	1711.0	155.0	45149.0	1904.0
+GM0599	Rotterdam	3966.0	11529.0	623652.0	2986.0
+GM0600	Rozenburg	null	null	null	null
+GM0602	Rijnsburg	null	null	null	null
+GM0603	Rijswijk	3143.0	44.0	48216.0	3431.0
+GM0604	Sassenheim	null	null	null	null
+GM0606	Schiedam	3257.0	186.0	76869.0	4270.0
+GM0608	Schoonhoven	null	null	null	null
+GM0610	Sliedrecht	1608.0	118.0	24758.0	1929.0
+GM0611	Cromstrijen	654.0	1592.0	12784.0	235.0
+GM0612	Spijkenisse	null	null	null	null
+GM0613	Albrandswaard	1008.0	195.0	25148.0	1153.0
+GM0614	Westvoorne	631.0	4425.0	14083.0	265.0
+GM0617	Strijen	600.0	730.0	8716.0	173.0
+GM0619	Valkenburg	null	null	null	null
+GM0620	Vianen	901.0	315.0	19632.0	500.0
+GM0622	Vlaardingen	2778.0	305.0	71645.0	3031.0
+GM0623	Vlist	null	null	null	null
+GM0625	Voorhout	null	null	null	null
+GM0626	Voorschoten	1798.0	40.0	25150.0	2254.0
+GM0627	Waddinxveen	1504.0	142.0	25657.0	917.0
+GM0628	Warmond	null	null	null	null
+GM0629	Wassenaar	1436.0	1144.0	25731.0	505.0
+GM0632	Woerden	1313.0	359.0	50631.0	567.0
+GM0637	Zoetermeer	2471.0	252.0	124025.0	3592.0
+GM0638	Zoeterwoude	702.0	70.0	8114.0	382.0
+GM0642	Zwijndrecht	2042.0	243.0	44501.0	2188.0
+GM0643	Nederlek	null	null	null	null
+GM0644	Ouderkerk	null	null	null	null
+GM0645	Jacobswoude	null	null	null	null
+GM0653	Gaasterlân-Sleat	null	null	null	null
+GM0654	Borsele	314.0	5278.0	22568.0	159.0
+GM0664	Goes	1286.0	934.0	37153.0	401.0
+GM0668	West Maas en Waal	396.0	776.0	18570.0	240.0
+GM0677	Hulst	484.0	5057.0	27360.0	136.0
+GM0678	Kapelle	631.0	1250.0	12545.0	338.0
+GM0683	Wymbritseradiel	null	null	null	null
+GM0687	Middelburg	1725.0	454.0	47613.0	982.0
+GM0689	Giessenlanden	286.0	151.0	14464.0	227.0
+GM0693	Graafstroom	null	null	null	null
+GM0694	Liesveld	null	null	null	null
+GM0703	Reimerswaal	500.0	14046.0	22058.0	216.0
+GM0707	Zederik	293.0	279.0	13717.0	186.0
+GM0710	Wûnseradiel	null	null	null	null
+GM0715	Terneuzen	851.0	6702.0	54577.0	218.0
+GM0716	Tholen	461.0	10705.0	25440.0	173.0
+GM0717	Veere	339.0	7364.0	21926.0	165.0
+GM0718	Vlissingen	1888.0	31063.0	44485.0	1301.0
+GM0733	Lingewaal	315.0	406.0	11079.0	220.0
+GM0736	De Ronde Venen	850.0	1676.0	42588.0	425.0
+GM0737	Tytsjerksteradiel	450.0	1213.0	31957.0	214.0
+GM0738	Aalburg	372.0	277.0	12922.0	256.0
+GM0743	Asten	916.0	118.0	16559.0	236.0
+GM0744	Baarle-Nassau	318.0	7.0	6599.0	87.0
+GM0748	Bergen op Zoom	1801.0	1283.0	66320.0	826.0
+GM0753	Best	1352.0	79.0	28737.0	838.0
+GM0755	Boekel	486.0	1.0	10119.0	293.0
+GM0756	Boxmeer	622.0	236.0	28342.0	254.0
+GM0757	Boxtel	1214.0	112.0	30337.0	476.0
+GM0758	Breda	2108.0	263.0	180937.0	1435.0
+GM0762	Deurne	833.0	139.0	31765.0	272.0
+GM0765	Pekela	525.0	113.0	12678.0	258.0
+GM0766	Dongen	1141.0	45.0	25395.0	867.0
+GM0770	Eersel	553.0	86.0	18347.0	222.0
+GM0772	Eindhoven	2448.0	120.0	223209.0	2546.0
+GM0777	Etten-Leur	1622.0	57.0	42503.0	768.0
+GM0779	Geertruidenberg	1084.0	300.0	21574.0	810.0
+GM0784	Gilze en Rijen	1056.0	17.0	26065.0	398.0
+GM0785	Goirle	1167.0	26.0	23014.0	547.0
+GM0786	Grave	630.0	85.0	12840.0	472.0
+GM0788	Haaren	325.0	84.0	13523.0	234.0
+GM0794	Helmond	1712.0	153.0	89718.0	1686.0
+GM0796	's-Hertogenbosch	1885.0	748.0	150889.0	1364.0
+GM0797	Heusden	1056.0	234.0	43132.0	547.0
+GM0798	Hilvarenbeek	563.0	158.0	15042.0	158.0
+GM0808	Lith	null	null	null	null
+GM0809	Loon op Zand	1027.0	58.0	22960.0	458.0
+GM0815	Mill en Sint Hubert	311.0	95.0	10831.0	207.0
+GM0820	Nuenen c.a.	1103.0	22.0	22620.0	671.0
+GM0823	Oirschot	593.0	107.0	18079.0	178.0
+GM0824	Oisterwijk	952.0	126.0	25732.0	403.0
+GM0826	Oosterhout	1531.0	161.0	53793.0	753.0
+GM0828	Oss	1334.0	752.0	89799.0	550.0
+GM0840	Rucphen	651.0	6.0	22233.0	345.0
+GM0844	Schijndel	1069.0	12.0	23543.0	567.0
+GM0845	Sint-Michielsgestel	599.0	90.0	28395.0	486.0
+GM0846	Sint-Oedenrode	671.0	52.0	17937.0	278.0
+GM0847	Someren	701.0	117.0	18695.0	233.0
+GM0848	Son en Breugel	667.0	56.0	16344.0	630.0
+GM0851	Steenbergen	689.0	1252.0	23638.0	161.0
+GM0852	Waterland	662.0	6356.0	17143.0	329.0
+GM0855	Tilburg	2696.0	192.0	211648.0	1805.0
+GM0856	Uden	1327.0	48.0	41089.0	613.0
+GM0858	Valkenswaard	1430.0	158.0	30234.0	551.0
+GM0860	Veghel	1018.0	76.0	37754.0	483.0
+GM0861	Veldhoven	1666.0	20.0	44166.0	1392.0
+GM0865	Vught	1280.0	94.0	25853.0	772.0
+GM0866	Waalre	831.0	28.0	16874.0	754.0
+GM0867	Waalwijk	1249.0	302.0	46713.0	723.0
+GM0870	Werkendam	604.0	1728.0	26452.0	253.0
+GM0873	Woensdrecht	651.0	25.0	21644.0	236.0
+GM0874	Woudrichem	348.0	240.0	14388.0	292.0
+GM0879	Zundert	516.0	46.0	21363.0	177.0
+GM0880	Wormerland	1395.0	655.0	15740.0	407.0
+GM0881	Onderbanken	474.0	8.0	7866.0	372.0
+GM0882	Landgraaf	1434.0	8.0	37456.0	1524.0
+GM0885	Arcen en Velden	null	null	null	null
+GM0888	Beek	876.0	null	16214.0	771.0
+GM0889	Beesel	732.0	102.0	13511.0	480.0
+GM0893	Bergen (L.)	307.0	503.0	13152.0	127.0
+GM0899	Brunssum	1676.0	13.0	28656.0	1666.0
+GM0905	Eijsden	null	null	null	null
+GM0907	Gennep	626.0	279.0	17280.0	363.0
+GM0914	Haelen	null	null	null	null
+GM0917	Heerlen	1782.0	56.0	87500.0	1946.0
+GM0918	Helden	null	null	null	null
+GM0920	Heythuysen	null	null	null	null
+GM0925	Hunsel	null	null	null	null
+GM0928	Kerkrade	1743.0	23.0	46524.0	2124.0
+GM0929	Kessel	null	null	null	null
+GM0933	Maasbracht	null	null	null	null
+GM0934	Maasbree	null	null	null	null
+GM0935	Maastricht	2326.0	341.0	122397.0	2162.0
+GM0936	Margraten	null	null	null	null
+GM0938	Meerssen	589.0	61.0	19063.0	705.0
+GM0941	Meijel	null	null	null	null
+GM0944	Mook en Middelaar	416.0	142.0	7762.0	446.0
+GM0946	Nederweert	616.0	178.0	16776.0	168.0
+GM0951	Nuth	519.0	3.0	15495.0	468.0
+GM0957	Roermond	1492.0	1020.0	57005.0	937.0
+GM0962	Schinnen	471.0	6.0	12992.0	540.0
+GM0964	Sevenum	null	null	null	null
+GM0965	Simpelveld	663.0	null	10844.0	677.0
+GM0971	Stein	876.0	155.0	25134.0	1193.0
+GM0975	Swalmen	null	null	null	null
+GM0977	Thorn	null	null	null	null
+GM0981	Vaals	941.0	1.0	9694.0	406.0
+GM0983	Venlo	1605.0	433.0	100536.0	806.0
+GM0984	Venray	997.0	166.0	43202.0	264.0
+GM0986	Voerendaal	527.0	1.0	12397.0	393.0
+GM0988	Weert	1303.0	105.0	48914.0	468.0
+GM0993	Meerlo-Wanssum	null	null	null	null
+GM0994	Valkenburg aan de Geul	651.0	20.0	16618.0	452.0
+GM0995	Lelystad	1353.0	53424.0	76418.0	331.0
+GM1507	Horst aan de Maas	545.0	326.0	41661.0	221.0
+GM1509	Oude IJsselstreek	640.0	157.0	39558.0	290.0
+GM1525	Teylingen	1322.0	494.0	35646.0	1249.0
+GM1581	Utrechtse Heuvelrug	744.0	186.0	48183.0	364.0
+GM1586	Oost Gelre	732.0	46.0	29533.0	269.0
+GM1598	Koggenland	408.0	378.0	22426.0	279.0
+GM1621	Lansingerland	1206.0	211.0	58133.0	1071.0
+GM1640	Leudal	377.0	210.0	36244.0	223.0
+GM1641	Maasgouw	429.0	1229.0	23766.0	520.0
+GM1651	Eemsmond	366.0	35426.0	15770.0	83.0
+GM1652	Gemert-Bakel	753.0	99.0	29513.0	241.0
+GM1655	Halderberge	740.0	70.0	29484.0	396.0
+GM1658	Heeze-Leende	570.0	100.0	15477.0	149.0
+GM1659	Laarbeek	616.0	80.0	21913.0	396.0
+GM1661	Reiderland	null	null	null	null
+GM1663	De Marne	157.0	6987.0	10157.0	60.0
+GM1666	Zevenhuizen-Moerkapelle	null	null	null	null
+GM1667	Reusel-De Mierden	541.0	77.0	12774.0	164.0
+GM1669	Roerdalen	381.0	56.0	20699.0	235.0
+GM1670	Roggel en Neer	null	null	null	null
+GM1671	Maasdonk	null	null	null	null
+GM1672	Rijnwoude	null	null	null	null
+GM1673	Liemeer	null	null	null	null
+GM1674	Roosendaal	1669.0	69.0	76874.0	722.0
+GM1676	Schouwen-Duiveland	506.0	25795.0	33821.0	147.0
+GM1679	Ambt Montfort	null	null	null	null
+GM1680	Aa en Hunze	279.0	261.0	25203.0	91.0
+GM1681	Borger-Odoorn	260.0	291.0	25502.0	93.0
+GM1684	Cuijk	814.0	583.0	24649.0	481.0
+GM1685	Landerd	450.0	33.0	15290.0	217.0
+GM1690	De Wolden	297.0	163.0	23661.0	105.0
+GM1695	Noord-Beveland	219.0	3568.0	7433.0	87.0
+GM1696	Wijdemeren	569.0	2850.0	23176.0	484.0
+GM1699	Noordenveld	684.0	451.0	31137.0	155.0
+GM1700	Twenterand	585.0	186.0	33874.0	319.0
+GM1701	Westerveld	204.0	423.0	19085.0	69.0
+GM1702	Sint Anthonis	267.0	49.0	11612.0	117.0
+GM1705	Lingewaard	916.0	697.0	45788.0	737.0
+GM1706	Cranendonck	581.0	169.0	20542.0	269.0
+GM1708	Steenwijkerland	586.0	3177.0	43219.0	149.0
+GM1709	Moerdijk	741.0	2466.0	36816.0	231.0
+GM1711	Echt-Susteren	707.0	141.0	31947.0	310.0
+GM1714	Sluis	421.0	2751.0	23747.0	85.0
+GM1719	Drimmelen	748.0	2329.0	26703.0	278.0
+GM1721	Bernheze	639.0	66.0	29729.0	331.0
+GM1722	Ferwerderadiel	207.0	3545.0	8738.0	89.0
+GM1723	Alphen-Chaam	287.0	47.0	9753.0	105.0
+GM1724	Bergeijk	495.0	74.0	18209.0	180.0
+GM1728	Bladel	670.0	26.0	19869.0	264.0
+GM1729	Gulpen-Wittem	283.0	18.0	14497.0	198.0
+GM1730	Tynaarlo	495.0	430.0	32570.0	227.0
+GM1731	Midden-Drenthe	397.0	508.0	33284.0	98.0
+GM1734	Overbetuwe	773.0	585.0	46833.0	429.0
+GM1735	Hof van Twente	604.0	276.0	34917.0	164.0
+GM1740	Neder-Betuwe	409.0	745.0	22728.0	379.0
+GM1742	Rijssen-Holten	1064.0	26.0	37830.0	402.0
+GM1771	Geldrop-Mierlo	1339.0	37.0	38879.0	1254.0
+GM1773	Olst-Wijhe	442.0	438.0	17839.0	156.0
+GM1774	Dinkelland	450.0	112.0	25928.0	148.0
+GM1783	Westland	1364.0	1105.0	104302.0	1311.0
+GM1842	Midden-Delfland	1250.0	203.0	18709.0	395.0
+GM1859	Berkelland	644.0	204.0	44364.0	172.0
+GM1876	Bronckhorst	382.0	294.0	36726.0	130.0
+GM1883	Sittard-Geleen	1471.0	153.0	93724.0	1186.0
+GM1884	Kaag en Braassem	553.0	892.0	25844.0	408.0
+GM1891	Dantumadiel	441.0	219.0	19059.0	223.0
+GM1892	Zuidplas	1168.0	437.0	40771.0	683.0
+GM1894	Peel en Maas	577.0	197.0	43448.0	273.0
+GM1895	Oldambt	833.0	6924.0	38420.0	169.0
+GM1896	Zwartewaterland	696.0	518.0	22166.0	268.0
+GM1900	Sûdwest Fryslân	864.0	38292.0	84164.0	185.0
+GM1901	Bodegraven-Reeuwijk	1079.0	1290.0	33208.0	438.0
+GM1903	Eijsden-Margraten	437.0	93.0	24967.0	323.0
+GM1904	Stichtse Vecht	1159.0	1019.0	63943.0	662.0
+GM1908	Menameradiel	264.0	120.0	13612.0	198.0
+GM1911	Hollands Kroon	427.0	30459.0	47546.0	133.0
+GM1916	Leidschendam-Voorburg	2836.0	294.0	73979.0	2264.0
+GM1921	De Friese Meren	534.0	19741.0	51213.0	146.0
+GM1924	Goeree-Overflakkee	619.0	16153.0	48206.0	185.0
+GM1926	Pijnacker-Nootdorp	1413.0	126.0	51203.0	1371.0
+GM1927	Molenwaard	444.0	819.0	28993.0	245.0
+GM1930	Nissewaard	2006.0	1526.0	85121.0	1020.0
+GM1931	Krimpenerwaard	776.0	1136.0	54208.0	362.0
+GM1937	Heel	null	null	null	null
+GM1940	De Fryske Marren	null	null	null	null
+GM1942	Gooise Meren	null	null	null	null
+GM1945	Berg en Dal	null	null	null	null
+GM1948	Meierijstad	null	null	null	null
+GM1955	Montferland	737.0	95.0	35150.0	333.0
+GM1987	Menterwolde	357.0	138.0	12197.0	152.0

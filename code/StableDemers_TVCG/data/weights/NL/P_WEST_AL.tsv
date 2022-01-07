@@ -1,0 +1,516 @@
+code	name	2004	2005	2006	2007	2008	2009	2010	2011	2012	2013	2014	2015	2016	2017
+GM0003	Appingedam	8	8	8	8	8	8	8	7	8	8	8	7	7	7
+GM0005	Bedum	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0007	Bellingwedde	9	9	9	8	8	8	8	8	8	8	8	8	8	8
+GM0009	Ten Boer	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0010	Delfzijl	8	8	8	8	8	7	8	8	8	8	8	8	8	8
+GM0014	Groningen	9	9	9	10	10	10	10	11	11	11	11	12	12	12
+GM0015	Grootegast	2	2	2	2	2	2	2	3	3	3	3	3	2	2
+GM0017	Haren	8	8	8	8	8	8	8	8	8	8	8	8	8	8
+GM0018	Hoogezand-Sappemeer	7	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM0022	Leek	5	5	4	4	5	5	5	5	5	6	6	5	5	5
+GM0024	Loppersum	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0025	Marum	5	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0034	Almere	10	10	10	10	10	10	10	10	10	10	10	10	10	10
+GM0037	Stadskanaal	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0039	Scheemda	5	5	5	5	6	6	null	null	null	null	null	null	null	null
+GM0040	Slochteren	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0047	Veendam	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0048	Vlagtwedde	6	6	6	6	6	6	6	6	6	6	6	6	5	5
+GM0050	Zeewolde	8	7	7	7	7	7	7	7	8	8	9	11	12	12
+GM0051	Skarsterlân	4	4	4	4	4	4	4	4	4	4	null	null	null	null
+GM0052	Winschoten	8	8	8	8	8	7	null	null	null	null	null	null	null	null
+GM0053	Winsum	5	5	4	4	4	4	4	4	4	5	5	5	5	5
+GM0055	Boarnsterhim	4	4	4	4	4	4	4	4	4	4	null	null	null	null
+GM0056	Zuidhorn	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0058	Dongeradeel	4	4	4	4	4	3	3	3	3	3	3	3	3	3
+GM0059	Achtkarspelen	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0060	Ameland	4	4	4	4	4	4	4	4	5	5	5	5	5	5
+GM0063	het Bildt	5	4	5	5	4	4	4	5	5	5	5	5	5	5
+GM0064	Bolsward	5	5	4	4	4	5	5	null	null	null	null	null	null	null
+GM0065	Dantumadeel	2	2	2	2	2	null	null	null	null	null	null	null	null	null
+GM0070	Franekeradeel	5	5	5	5	5	5	5	5	5	6	6	6	6	6
+GM0072	Harlingen	8	8	8	7	7	8	8	8	8	8	8	8	8	8
+GM0074	Heerenveen	6	5	5	5	6	6	6	6	6	6	5	5	5	6
+GM0079	Kollumerland c.a.	2	2	2	2	2	2	2	2	3	2	2	2	2	2
+GM0080	Leeuwarden	7	7	7	7	7	8	8	8	8	8	8	8	8	8
+GM0081	Leeuwarderadeel	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0082	Lemsterland	6	6	6	6	6	6	6	6	6	6	null	null	null	null
+GM0083	Menaldumadeel	3	3	3	3	3	4	4	null	null	null	null	null	null	null
+GM0085	Ooststellingwerf	5	5	5	5	4	4	4	4	4	5	5	5	4	4
+GM0086	Opsterland	3	3	3	3	3	3	3	3	3	3	3	4	4	4
+GM0088	Schiermonnikoog	5	5	5	5	5	5	6	6	6	6	7	7	7	7
+GM0090	Smallingerland	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0091	Sneek	6	6	6	6	7	7	7	null	null	null	null	null	null	null
+GM0093	Terschelling	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0096	Vlieland	10	10	10	10	9	9	9	9	8	10	10	9	9	9
+GM0098	Weststellingwerf	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0104	Nijefurd	5	4	4	4	4	4	4	null	null	null	null	null	null	null
+GM0106	Assen	8	8	8	8	8	8	8	8	8	8	8	8	8	8
+GM0109	Coevorden	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0114	Emmen	7	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM0118	Hoogeveen	5	5	5	5	5	5	5	5	5	5	5	5	6	6
+GM0119	Meppel	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0140	Littenseradiel	4	4	4	4	4	4	4	4	4	4	4	4	3	3
+GM0141	Almelo	10	10	10	10	10	10	10	10	10	10	10	10	10	10
+GM0144	Bathmen	4	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0147	Borne	7	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM0148	Dalfsen	2	2	2	2	2	3	3	3	3	3	3	3	3	3
+GM0150	Deventer	9	9	9	9	9	9	9	9	9	9	9	9	9	9
+GM0153	Enschede	12	12	12	12	12	13	13	13	13	13	13	13	12	12
+GM0158	Haaksbergen	8	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM0160	Hardenberg	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0163	Hellendoorn	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0164	Hengelo (O.)	10	10	10	10	10	10	10	10	10	10	10	10	10	10
+GM0166	Kampen	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0168	Losser	13	13	12	12	12	12	12	12	12	12	12	12	11	11
+GM0171	Noordoostpolder	5	5	5	5	5	5	5	5	6	6	6	6	6	7
+GM0173	Oldenzaal	9	9	8	8	8	8	8	8	8	8	8	8	8	8
+GM0175	Ommen	3	3	3	3	3	4	4	4	4	4	4	4	4	5
+GM0177	Raalte	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0180	Staphorst	1	1	1	1	1	1	1	2	2	2	2	2	2	2
+GM0183	Tubbergen	4	4	4	4	4	4	4	4	4	4	4	3	3	3
+GM0184	Urk	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0189	Wierden	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0193	Zwolle	7	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM0196	Rijnwaarden	10	10	10	10	10	10	10	10	10	10	10	10	9	9
+GM0197	Aalten	7	9	9	9	9	9	9	9	9	8	8	8	8	8
+GM0199	Angerlo	7	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0200	Apeldoorn	8	8	8	8	8	8	8	8	8	8	8	8	8	8
+GM0202	Arnhem	11	11	11	11	11	12	11	12	12	12	11	11	12	12
+GM0203	Barneveld	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0207	Bergh	11	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0209	Beuningen	8	8	8	8	8	8	8	8	8	8	8	8	8	7
+GM0211	Borculo	4	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0213	Brummen	6	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM0214	Buren	4	4	4	4	4	5	5	5	5	5	5	5	5	6
+GM0216	Culemborg	8	8	8	8	8	8	8	9	9	8	9	9	9	9
+GM0218	Didam	6	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0219	Dinxperlo	16	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0221	Doesburg	10	10	10	10	10	10	10	10	9	10	10	10	10	9
+GM0222	Doetinchem	8	8	8	7	7	7	7	7	7	7	7	7	7	7
+GM0225	Druten	6	6	6	6	6	6	6	5	6	6	6	6	6	6
+GM0226	Duiven	8	8	8	8	8	8	8	8	8	8	8	8	8	8
+GM0228	Ede	7	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM0229	Eibergen	6	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0230	Elburg	3	3	3	3	3	3	3	3	3	3	3	3	4	3
+GM0232	Epe	6	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM0233	Ermelo	5	5	5	5	6	6	6	6	6	6	6	6	6	6
+GM0236	Geldermalsen	4	4	4	4	4	4	5	5	5	5	5	5	5	5
+GM0237	Gendringen	9	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0239	Gorssel	6	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0240	Groenlo	8	6	6	null	null	null	null	null	null	null	null	null	null	null
+GM0241	Groesbeek	10	10	10	10	10	10	10	10	10	10	10	10	null	null
+GM0243	Harderwijk	6	6	6	6	6	6	6	6	6	6	6	7	7	7
+GM0244	Hattem	4	4	4	4	4	4	4	4	4	4	4	5	5	4
+GM0246	Heerde	3	3	4	3	3	3	3	3	3	3	3	3	3	3
+GM0248	Hengelo (Gld.)	3	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0252	Heumen	9	9	9	9	9	9	9	9	9	9	9	9	9	9
+GM0256	Hummelo en Keppel	5	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0260	Lichtenvoorde	5	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0262	Lochem	5	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM0263	Maasdriel	4	4	4	5	5	6	6	6	6	6	7	7	7	7
+GM0265	Millingen aan de Rijn	13	13	13	13	13	13	13	13	13	12	12	null	null	null
+GM0266	Neede	6	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0267	Nijkerk	4	4	4	4	4	4	5	5	5	5	5	5	5	5
+GM0268	Nijmegen	12	12	12	12	12	12	12	12	12	12	12	12	12	12
+GM0269	Oldebroek	2	2	2	2	2	2	2	3	3	3	3	3	3	3
+GM0273	Putten	3	4	4	4	4	4	4	4	4	5	4	5	5	5
+GM0274	Renkum	9	9	9	9	9	9	9	9	9	9	10	9	9	10
+GM0275	Rheden	9	9	9	9	9	9	9	9	9	9	9	9	9	9
+GM0277	Rozendaal	10	10	10	10	10	10	11	10	11	10	10	10	10	10
+GM0278	Ruurlo	4	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0279	Scherpenzeel	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0280	Steenderen	4	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0281	Tiel	9	9	9	8	8	8	8	8	9	9	9	9	9	9
+GM0282	Ubbergen	11	11	11	11	11	11	11	11	11	11	11	null	null	null
+GM0285	Voorst	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0286	Vorden	4	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0289	Wageningen	11	12	12	13	13	13	13	13	14	14	13	13	13	14
+GM0291	Warnsveld	7	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0292	Wehl	4	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0293	Westervoort	10	10	9	10	10	9	9	9	10	10	10	9	9	9
+GM0294	Winterswijk	9	9	9	9	9	9	9	9	9	9	9	9	9	9
+GM0295	Wisch	6	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0296	Wijchen	7	7	7	7	7	7	7	7	7	7	8	7	7	7
+GM0297	Zaltbommel	4	4	4	4	4	4	5	5	5	5	5	6	6	6
+GM0298	Zelhem	4	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0299	Zevenaar	11	10	10	10	10	10	10	10	10	10	10	10	10	10
+GM0301	Zutphen	9	9	9	9	9	9	9	9	9	9	9	9	9	9
+GM0302	Nunspeet	3	3	3	3	3	3	3	3	3	3	3	4	4	4
+GM0303	Dronten	7	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM0304	Neerijnen	4	4	4	4	4	4	4	4	4	4	4	4	5	5
+GM0305	Abcoude	11	11	10	11	11	11	11	null	null	null	null	null	null	null
+GM0306	Amerongen	7	7	null	null	null	null	null	null	null	null	null	null	null	null
+GM0307	Amersfoort	9	9	8	8	8	9	9	9	9	9	9	9	9	9
+GM0308	Baarn	9	9	9	9	9	9	9	9	9	9	9	9	9	9
+GM0310	De Bilt	9	9	9	9	9	9	10	10	10	10	10	10	10	10
+GM0311	Breukelen	8	8	8	8	8	8	8	null	null	null	null	null	null	null
+GM0312	Bunnik	7	7	7	7	7	7	8	8	8	8	8	8	8	8
+GM0313	Bunschoten	3	3	3	3	3	3	4	4	4	4	4	5	5	5
+GM0315	Doorn	10	10	null	null	null	null	null	null	null	null	null	null	null	null
+GM0316	Driebergen-Rijsenburg	9	8	null	null	null	null	null	null	null	null	null	null	null	null
+GM0317	Eemnes	9	9	8	8	8	8	8	8	8	8	8	8	8	8
+GM0321	Houten	7	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM0326	Leersum	8	8	null	null	null	null	null	null	null	null	null	null	null	null
+GM0327	Leusden	8	8	8	8	8	8	8	8	8	8	8	8	8	8
+GM0329	Loenen	9	9	9	9	9	9	9	null	null	null	null	null	null	null
+GM0331	Lopik	3	3	3	3	3	3	3	3	4	3	4	4	4	4
+GM0332	Maarn	7	8	null	null	null	null	null	null	null	null	null	null	null	null
+GM0333	Maarssen	9	9	9	9	9	9	9	null	null	null	null	null	null	null
+GM0335	Montfoort	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0339	Renswoude	3	3	3	3	3	3	3	3	3	3	3	4	4	4
+GM0340	Rhenen	5	5	5	5	5	5	5	5	5	5	5	5	5	6
+GM0342	Soest	9	9	9	9	9	9	9	9	9	9	9	9	9	9
+GM0344	Utrecht	10	10	10	10	10	10	10	10	11	11	11	11	11	11
+GM0345	Veenendaal	6	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM0351	Woudenberg	4	4	4	4	4	4	4	4	4	4	4	5	5	5
+GM0352	Wijk bij Duurstede	7	7	6	6	6	6	6	6	6	6	6	6	6	6
+GM0353	IJsselstein	7	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM0355	Zeist	10	10	10	10	10	10	10	10	10	10	10	10	10	10
+GM0356	Nieuwegein	10	10	10	10	10	10	10	10	10	10	10	10	10	10
+GM0358	Aalsmeer	8	8	8	9	9	9	9	10	10	10	10	11	11	11
+GM0361	Alkmaar	10	10	10	10	10	10	10	10	10	10	10	9	9	9
+GM0362	Amstelveen	17	17	18	18	18	18	18	18	18	19	19	19	19	19
+GM0363	Amsterdam	14	14	14	14	14	15	15	15	16	16	16	16	17	17
+GM0364	Andijk	6	6	6	6	6	6	6	null	null	null	null	null	null	null
+GM0365	Graft-De Rijp	5	5	5	5	5	5	5	5	5	5	5	null	null	null
+GM0366	Anna Paulowna	5	5	5	5	5	5	5	5	null	null	null	null	null	null
+GM0370	Beemster	6	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM0372	Bennebroek	10	10	10	10	10	null	null	null	null	null	null	null	null	null
+GM0373	Bergen (NH.)	9	9	9	9	9	9	9	9	9	9	9	9	9	9
+GM0375	Beverwijk	10	10	10	10	10	10	10	11	11	11	11	11	12	12
+GM0376	Blaricum	12	12	12	12	12	12	11	11	11	12	11	11	11	11
+GM0377	Bloemendaal	14	14	14	14	14	13	13	13	13	13	13	13	13	13
+GM0381	Bussum	12	12	12	12	12	12	12	12	12	12	12	12	null	null
+GM0383	Castricum	6	6	6	6	7	7	7	7	7	7	7	7	7	7
+GM0384	Diemen	11	11	11	12	12	12	13	13	13	13	14	14	14	15
+GM0385	Edam-Volendam	4	4	4	4	4	4	4	3	3	4	4	4	4	4
+GM0388	Enkhuizen	6	6	6	6	7	7	7	7	8	8	8	8	9	9
+GM0392	Haarlem	10	10	10	10	11	11	11	11	12	12	12	12	12	13
+GM0393	Haarlemmerliede c.a.	6	6	6	7	7	7	7	7	8	8	8	8	9	8
+GM0394	Haarlemmermeer	10	10	10	10	10	10	10	10	10	10	11	11	11	11
+GM0395	Harenkarspel	5	5	5	5	5	5	5	6	6	null	null	null	null	null
+GM0396	Heemskerk	10	10	9	9	9	9	9	9	9	9	9	9	9	9
+GM0397	Heemstede	12	12	12	12	12	12	12	12	13	12	13	13	12	13
+GM0398	Heerhugowaard	8	8	8	8	8	8	8	8	8	8	8	9	9	9
+GM0399	Heiloo	7	7	7	7	7	8	8	8	8	8	8	8	8	8
+GM0400	Den Helder	10	10	10	10	10	10	10	10	10	10	10	10	10	10
+GM0402	Hilversum	11	11	11	11	11	11	12	12	12	12	12	13	13	13
+GM0405	Hoorn	8	8	8	8	8	8	8	8	8	8	8	9	9	9
+GM0406	Huizen	10	10	10	10	10	10	10	10	10	10	10	10	10	10
+GM0412	Niedorp	4	4	4	4	5	5	5	5	null	null	null	null	null	null
+GM0415	Landsmeer	7	8	8	8	8	8	8	8	8	8	8	9	9	9
+GM0416	Langedijk	5	5	6	6	6	6	6	6	6	6	6	6	6	6
+GM0417	Laren	14	13	13	13	13	12	13	13	13	13	13	13	14	14
+GM0420	Medemblik	6	6	7	5	5	6	6	6	6	6	7	7	7	8
+GM0424	Muiden	10	10	11	11	11	11	11	11	11	11	11	11	null	null
+GM0425	Naarden	12	12	12	12	12	12	12	12	12	12	12	12	null	null
+GM0429	Obdam	3	3	3	null	null	null	null	null	null	null	null	null	null	null
+GM0431	Oostzaan	6	6	6	6	6	6	6	6	6	6	6	6	7	6
+GM0432	Opmeer	4	4	4	4	4	4	4	4	4	4	4	4	5	5
+GM0437	Ouder-Amstel	11	11	11	11	11	11	11	11	11	12	12	12	12	12
+GM0439	Purmerend	9	9	9	9	9	9	9	9	9	9	9	9	9	9
+GM0441	Schagen	8	8	8	8	8	7	7	7	7	7	7	7	7	7
+GM0448	Texel	6	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM0450	Uitgeest	6	6	6	6	7	7	7	7	6	7	7	7	7	7
+GM0451	Uithoorn	10	10	10	10	10	10	10	10	11	11	11	11	11	12
+GM0453	Velsen	8	8	8	8	8	8	9	9	9	9	9	9	9	9
+GM0454	Venhuizen	7	7	null	null	null	null	null	null	null	null	null	null	null	null
+GM0457	Weesp	10	10	10	10	10	11	11	11	11	11	11	11	11	11
+GM0458	Schermer	4	4	4	5	5	5	5	5	5	6	6	null	null	null
+GM0459	Wervershoof	3	3	3	3	3	4	4	null	null	null	null	null	null	null
+GM0462	Wieringen	5	5	5	5	5	5	5	5	null	null	null	null	null	null
+GM0463	Wieringermeer	5	5	5	6	6	6	6	6	null	null	null	null	null	null
+GM0466	Wognum	4	4	4	null	null	null	null	null	null	null	null	null	null	null
+GM0473	Zandvoort	13	12	13	12	13	13	13	13	13	13	13	13	13	14
+GM0476	Zijpe	6	6	6	6	6	6	7	7	7	null	null	null	null	null
+GM0478	Zeevang	7	7	6	7	7	7	7	7	7	7	8	8	null	null
+GM0479	Zaanstad	9	8	9	9	9	9	9	9	9	9	9	10	10	10
+GM0480	Ter Aar	4	4	4	null	null	null	null	null	null	null	null	null	null	null
+GM0482	Alblasserdam	7	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM0483	Alkemade	4	4	4	4	4	null	null	null	null	null	null	null	null	null
+GM0484	Alphen aan den Rijn	9	9	9	9	9	9	9	9	9	9	8	8	9	9
+GM0489	Barendrecht	7	7	7	7	7	7	7	7	7	8	8	8	8	8
+GM0491	Bergambacht	4	4	4	4	4	4	4	5	5	5	5	null	null	null
+GM0492	Bergschenhoek	7	7	7	null	null	null	null	null	null	null	null	null	null	null
+GM0493	Berkel en Rodenrijs	6	6	6	null	null	null	null	null	null	null	null	null	null	null
+GM0495	Bleiswijk	6	6	6	null	null	null	null	null	null	null	null	null	null	null
+GM0497	Bodegraven	5	5	5	6	6	6	6	null	null	null	null	null	null	null
+GM0498	Drechterland	4	4	5	5	5	5	5	6	6	6	6	7	7	7
+GM0499	Boskoop	5	5	5	6	6	6	6	6	6	6	null	null	null	null
+GM0501	Brielle	8	8	8	8	8	8	9	9	8	8	8	9	9	9
+GM0502	Capelle aan den IJssel	11	11	11	10	10	11	11	11	11	11	11	11	11	11
+GM0503	Delft	11	11	12	12	12	12	13	13	13	13	13	13	14	14
+GM0504	Dirksland	3	3	3	3	3	3	3	3	3	null	null	null	null	null
+GM0505	Dordrecht	10	10	10	10	10	10	10	10	11	11	11	11	11	11
+GM0511	Goedereede	3	3	3	3	3	3	3	3	3	null	null	null	null	null
+GM0512	Gorinchem	9	9	9	9	9	9	9	9	9	9	9	10	10	10
+GM0513	Gouda	7	7	7	7	7	8	8	8	8	8	8	8	8	9
+GM0517	's-Gravendeel	4	4	4	null	null	null	null	null	null	null	null	null	null	null
+GM0518	's-Gravenhage	12	13	13	13	13	14	14	15	15	16	16	16	17	17
+GM0523	Hardinxveld-Giessendam	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0529	Noorder-Koggenland	6	6	6	null	null	null	null	null	null	null	null	null	null	null
+GM0530	Hellevoetsluis	9	9	9	9	9	9	9	10	10	9	9	9	9	9
+GM0531	Hendrik-Ido-Ambacht	6	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM0532	Stede Broec	5	5	5	5	6	6	6	6	6	6	7	7	7	8
+GM0534	Hillegom	8	8	8	8	8	9	9	9	10	10	10	10	11	11
+GM0537	Katwijk	4	4	4	5	5	5	5	5	5	5	5	5	6	6
+GM0542	Krimpen aan den IJssel	8	8	8	8	8	8	7	7	7	7	7	7	7	7
+GM0545	Leerdam	8	8	8	8	8	8	8	8	8	8	8	8	8	8
+GM0546	Leiden	12	12	12	12	12	12	13	13	13	13	14	14	14	14
+GM0547	Leiderdorp	10	10	10	10	10	10	10	10	10	10	10	10	10	10
+GM0553	Lisse	7	7	8	8	8	8	8	9	8	8	8	8	8	8
+GM0556	Maassluis	7	7	7	7	7	7	7	7	7	7	8	8	8	8
+GM0558	Wester-Koggenland	4	4	4	null	null	null	null	null	null	null	null	null	null	null
+GM0559	Middelharnis	3	4	4	4	4	4	4	4	4	null	null	null	null	null
+GM0563	Moordrecht	13	13	13	13	13	13	null	null	null	null	null	null	null	null
+GM0567	Nieuwerkerk aan den IJssel	6	6	6	6	6	6	null	null	null	null	null	null	null	null
+GM0568	Bernisse	6	6	6	6	6	6	6	6	6	6	6	null	null	null
+GM0569	Nieuwkoop	5	5	5	5	5	5	5	5	5	5	5	5	6	6
+GM0571	Nieuw-Lekkerland	4	4	4	4	4	4	4	4	4	null	null	null	null	null
+GM0575	Noordwijk	9	9	10	10	10	11	11	11	11	11	11	11	12	12
+GM0576	Noordwijkerhout	7	8	8	9	9	9	9	9	9	9	10	10	10	11
+GM0579	Oegstgeest	14	14	14	14	14	14	14	14	14	14	15	15	15	15
+GM0580	Oostflakkee	3	3	3	3	4	4	4	4	4	null	null	null	null	null
+GM0584	Oud-Beijerland	6	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM0585	Binnenmaas	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0588	Korendijk	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0589	Oudewater	3	3	4	4	4	4	4	4	4	4	4	4	4	5
+GM0590	Papendrecht	8	8	8	8	8	8	8	8	8	8	8	8	8	8
+GM0595	Reeuwijk	5	5	5	5	5	5	5	null	null	null	null	null	null	null
+GM0597	Ridderkerk	7	8	8	8	8	8	8	8	8	8	8	8	8	8
+GM0599	Rotterdam	10	10	10	10	10	10	11	11	11	12	12	12	12	12
+GM0600	Rozenburg	10	10	10	10	10	10	10	null	null	null	null	null	null	null
+GM0602	Rijnsburg	5	5	null	null	null	null	null	null	null	null	null	null	null	null
+GM0603	Rijswijk	15	14	15	15	15	15	15	15	15	15	15	15	15	15
+GM0604	Sassenheim	8	7	null	null	null	null	null	null	null	null	null	null	null	null
+GM0606	Schiedam	8	8	8	8	8	9	9	10	10	10	11	11	12	12
+GM0608	Schoonhoven	6	6	6	6	6	6	6	6	6	6	6	null	null	null
+GM0610	Sliedrecht	4	4	4	4	4	5	5	5	5	5	5	5	5	5
+GM0611	Cromstrijen	5	5	5	5	5	4	5	5	5	5	4	4	4	4
+GM0612	Spijkenisse	9	9	9	9	9	9	9	9	9	9	9	null	null	null
+GM0613	Albrandswaard	7	7	7	7	7	7	8	7	7	8	8	8	8	8
+GM0614	Westvoorne	7	6	7	7	6	6	7	7	7	7	7	7	7	7
+GM0617	Strijen	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0619	Valkenburg	4	4	null	null	null	null	null	null	null	null	null	null	null	null
+GM0620	Vianen	6	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM0622	Vlaardingen	7	7	7	7	7	7	8	8	8	8	9	9	9	9
+GM0623	Vlist	4	4	4	4	4	4	4	4	4	4	4	null	null	null
+GM0625	Voorhout	7	7	null	null	null	null	null	null	null	null	null	null	null	null
+GM0626	Voorschoten	14	14	14	14	13	13	13	13	13	13	13	13	13	13
+GM0627	Waddinxveen	6	6	6	6	6	6	6	6	6	7	7	7	7	7
+GM0628	Warmond	8	9	null	null	null	null	null	null	null	null	null	null	null	null
+GM0629	Wassenaar	22	22	22	22	22	22	21	21	21	21	22	22	22	22
+GM0632	Woerden	6	6	6	6	6	6	6	6	6	6	6	6	7	7
+GM0637	Zoetermeer	11	11	11	11	11	11	11	11	11	11	11	11	11	11
+GM0638	Zoeterwoude	6	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM0642	Zwijndrecht	7	7	7	7	7	7	7	7	7	7	7	7	7	8
+GM0643	Nederlek	5	5	5	5	5	5	5	5	5	6	6	null	null	null
+GM0644	Ouderkerk	3	3	3	3	3	4	3	3	3	4	4	null	null	null
+GM0645	Jacobswoude	5	5	5	5	5	null	null	null	null	null	null	null	null	null
+GM0653	Gaasterlân-Sleat	4	3	4	4	4	3	4	4	4	3	null	null	null	null
+GM0654	Borsele	5	5	5	5	5	6	5	6	6	6	6	6	6	6
+GM0664	Goes	7	7	7	7	7	7	7	8	8	8	8	8	8	8
+GM0668	West Maas en Waal	4	4	4	4	4	4	4	5	5	5	5	5	5	5
+GM0677	Hulst	21	21	21	21	21	21	21	21	22	22	23	23	24	24
+GM0678	Kapelle	5	5	5	5	5	5	5	5	5	5	5	5	5	6
+GM0683	Wymbritseradiel	3	3	3	3	3	3	3	null	null	null	null	null	null	null
+GM0687	Middelburg	9	9	9	9	9	9	9	9	9	9	9	10	10	10
+GM0689	Giessenlanden	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0693	Graafstroom	2	2	2	3	2	2	2	3	2	null	null	null	null	null
+GM0694	Liesveld	3	3	3	3	3	3	3	3	3	null	null	null	null	null
+GM0703	Reimerswaal	5	5	6	6	6	6	6	7	7	8	8	9	9	9
+GM0707	Zederik	2	2	2	2	2	2	3	3	3	3	3	3	3	3
+GM0710	Wûnseradiel	5	4	5	5	5	5	4	null	null	null	null	null	null	null
+GM0715	Terneuzen	16	16	16	16	16	16	16	16	17	17	17	18	18	18
+GM0716	Tholen	4	4	4	4	4	4	4	5	5	5	5	5	5	5
+GM0717	Veere	5	5	5	5	6	6	6	6	6	6	6	6	6	6
+GM0718	Vlissingen	12	12	12	12	12	12	13	13	13	13	13	14	14	14
+GM0733	Lingewaal	4	4	4	4	4	4	4	4	4	4	5	5	5	5
+GM0736	De Ronde Venen	7	7	7	7	7	7	7	8	8	8	8	8	9	9
+GM0737	Tytsjerksteradiel	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0738	Aalburg	2	3	3	3	3	3	3	3	3	3	3	4	4	4
+GM0743	Asten	4	4	4	4	4	4	4	4	5	6	6	6	7	7
+GM0744	Baarle-Nassau	25	25	24	24	24	24	24	24	24	23	23	23	23	23
+GM0748	Bergen op Zoom	9	9	9	9	9	9	9	9	9	9	10	10	10	10
+GM0753	Best	8	8	8	8	8	8	8	8	8	8	8	8	9	9
+GM0755	Boekel	3	3	3	4	4	4	4	4	5	5	5	5	6	6
+GM0756	Boxmeer	7	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM0757	Boxtel	6	6	6	6	6	6	6	6	7	7	7	7	7	7
+GM0758	Breda	10	10	10	10	10	10	11	11	11	11	11	11	11	11
+GM0762	Deurne	4	4	5	5	5	5	5	5	5	5	5	5	5	6
+GM0765	Pekela	6	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM0766	Dongen	6	6	6	6	6	6	6	6	6	6	6	6	6	7
+GM0770	Eersel	5	5	5	5	5	5	5	5	6	6	6	6	6	6
+GM0772	Eindhoven	11	11	12	12	12	12	12	13	13	13	13	14	14	14
+GM0777	Etten-Leur	8	8	8	8	8	8	8	9	9	9	9	9	9	9
+GM0779	Geertruidenberg	6	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM0784	Gilze en Rijen	7	7	7	7	7	7	7	7	8	8	8	8	8	8
+GM0785	Goirle	7	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM0786	Grave	9	9	9	9	9	8	8	8	8	8	8	8	8	8
+GM0788	Haaren	4	4	4	4	4	4	4	4	4	4	4	4	4	5
+GM0794	Helmond	10	10	10	10	10	11	11	11	11	11	12	12	12	13
+GM0796	's-Hertogenbosch	9	9	9	9	9	9	9	9	9	9	9	9	9	9
+GM0797	Heusden	6	6	6	6	6	6	6	6	6	6	6	7	7	7
+GM0798	Hilvarenbeek	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0808	Lith	4	4	4	4	4	4	4	null	null	null	null	null	null	null
+GM0809	Loon op Zand	5	5	5	5	5	5	6	6	6	6	6	6	6	7
+GM0815	Mill en Sint Hubert	3	3	3	3	3	4	4	4	4	4	4	4	4	4
+GM0820	Nuenen c.a.	8	8	8	8	8	9	9	9	9	9	9	9	9	9
+GM0823	Oirschot	3	4	4	4	4	4	4	4	4	4	4	4	4	5
+GM0824	Oisterwijk	6	7	7	7	7	6	6	6	6	6	6	6	6	6
+GM0826	Oosterhout	8	8	8	8	8	8	8	9	9	9	9	9	9	9
+GM0828	Oss	7	7	7	8	8	8	8	8	8	8	8	8	8	8
+GM0840	Rucphen	5	5	5	5	5	5	5	5	6	6	6	6	6	6
+GM0844	Schijndel	5	5	5	5	5	5	5	5	5	5	5	6	6	null
+GM0845	Sint-Michielsgestel	4	4	4	4	5	5	5	5	5	5	5	5	5	5
+GM0846	Sint-Oedenrode	4	4	4	4	4	4	5	5	5	5	5	5	5	null
+GM0847	Someren	4	4	4	4	4	4	4	5	6	6	6	7	7	7
+GM0848	Son en Breugel	8	8	8	8	8	8	8	8	8	8	8	8	8	8
+GM0851	Steenbergen	5	5	5	5	5	6	6	6	6	7	7	8	8	10
+GM0852	Waterland	7	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM0855	Tilburg	8	8	8	8	8	9	9	9	9	9	10	10	10	11
+GM0856	Uden	7	8	7	8	8	8	8	8	8	8	8	8	8	9
+GM0858	Valkenswaard	10	10	10	10	10	10	10	10	10	10	9	10	10	9
+GM0860	Veghel	6	6	6	6	6	7	7	7	7	8	8	8	9	null
+GM0861	Veldhoven	9	9	9	9	9	9	9	9	9	10	10	10	10	10
+GM0865	Vught	9	9	9	9	9	9	9	9	9	9	9	9	9	9
+GM0866	Waalre	9	10	9	10	10	10	10	10	10	10	10	10	10	10
+GM0867	Waalwijk	6	6	7	7	7	7	7	7	7	8	8	8	8	9
+GM0870	Werkendam	3	3	3	3	3	3	3	3	3	3	3	3	4	4
+GM0873	Woensdrecht	16	16	16	16	16	16	16	16	16	16	17	17	18	19
+GM0874	Woudrichem	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0879	Zundert	10	10	11	11	12	12	12	12	12	12	13	13	13	13
+GM0880	Wormerland	6	6	6	6	6	6	6	6	6	6	6	6	6	7
+GM0881	Onderbanken	20	20	20	19	19	19	19	19	18	18	18	18	18	17
+GM0882	Landgraaf	22	22	22	21	21	21	21	20	20	20	20	20	19	19
+GM0885	Arcen en Velden	13	13	13	13	13	13	null	null	null	null	null	null	null	null
+GM0888	Beek	11	11	11	10	10	10	10	10	10	10	10	10	10	10
+GM0889	Beesel	11	11	11	11	11	11	11	11	11	11	11	11	11	11
+GM0893	Bergen (L.)	15	14	14	14	14	14	14	13	13	13	13	13	13	13
+GM0899	Brunssum	21	21	21	21	21	20	20	20	20	20	20	19	19	19
+GM0905	Eijsden	11	11	11	11	11	11	11	null	null	null	null	null	null	null
+GM0907	Gennep	11	11	11	11	10	11	10	10	10	10	10	10	10	10
+GM0914	Haelen	9	9	9	null	null	null	null	null	null	null	null	null	null	null
+GM0917	Heerlen	21	20	20	20	20	20	20	19	19	19	19	19	19	19
+GM0918	Helden	5	5	5	5	5	6	null	null	null	null	null	null	null	null
+GM0920	Heythuysen	9	9	9	null	null	null	null	null	null	null	null	null	null	null
+GM0925	Hunsel	10	10	10	null	null	null	null	null	null	null	null	null	null	null
+GM0928	Kerkrade	30	30	29	29	28	28	28	27	27	27	27	26	26	26
+GM0929	Kessel	7	7	7	7	7	7	null	null	null	null	null	null	null	null
+GM0933	Maasbracht	12	12	12	null	null	null	null	null	null	null	null	null	null	null
+GM0934	Maasbree	7	7	7	7	7	7	null	null	null	null	null	null	null	null
+GM0935	Maastricht	15	15	15	15	15	15	16	17	18	19	19	19	20	20
+GM0936	Margraten	10	10	10	10	10	10	10	null	null	null	null	null	null	null
+GM0938	Meerssen	9	9	9	9	9	9	9	9	10	10	9	9	9	10
+GM0941	Meijel	4	4	4	4	4	4	null	null	null	null	null	null	null	null
+GM0944	Mook en Middelaar	10	10	10	10	10	10	10	10	10	10	10	10	10	10
+GM0946	Nederweert	5	5	5	5	5	5	6	6	6	6	6	6	6	6
+GM0951	Nuth	11	11	11	11	11	11	11	11	11	11	11	11	11	11
+GM0957	Roermond	14	14	14	14	14	14	14	14	14	15	15	15	15	15
+GM0962	Schinnen	14	14	14	14	13	13	13	13	13	13	13	13	13	13
+GM0964	Sevenum	5	5	5	5	5	5	null	null	null	null	null	null	null	null
+GM0965	Simpelveld	18	18	18	18	18	17	17	17	17	17	16	16	16	16
+GM0971	Stein	12	12	12	12	11	11	11	11	11	11	11	11	11	11
+GM0975	Swalmen	13	12	12	null	null	null	null	null	null	null	null	null	null	null
+GM0977	Thorn	13	13	13	null	null	null	null	null	null	null	null	null	null	null
+GM0981	Vaals	49	48	47	47	46	46	45	44	44	44	44	44	44	45
+GM0983	Venlo	15	15	15	15	15	15	15	15	15	15	15	15	16	16
+GM0984	Venray	9	9	9	9	9	9	9	9	9	9	10	10	10	11
+GM0986	Voerendaal	11	11	11	11	11	11	11	11	11	11	11	11	11	11
+GM0988	Weert	10	10	10	10	10	10	10	10	11	11	11	11	11	11
+GM0993	Meerlo-Wanssum	6	6	6	6	6	6	null	null	null	null	null	null	null	null
+GM0994	Valkenburg aan de Geul	12	12	11	12	12	11	11	12	12	12	12	12	12	11
+GM0995	Lelystad	9	9	9	9	9	9	9	9	9	9	9	10	10	10
+GM1507	Horst aan de Maas	6	6	6	6	6	6	6	7	7	7	7	7	7	8
+GM1651	Eemsmond	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM1652	Gemert-Bakel	6	6	6	5	5	6	6	6	6	6	6	7	7	7
+GM1655	Halderberge	5	5	5	5	6	6	6	6	6	6	6	7	7	7
+GM1658	Heeze-Leende	6	6	6	6	6	6	6	7	7	7	7	7	7	7
+GM1659	Laarbeek	5	5	5	5	5	5	5	5	5	5	5	6	6	6
+GM1661	Reiderland	13	12	12	12	12	12	null	null	null	null	null	null	null	null
+GM1663	De Marne	5	5	5	4	4	4	4	4	4	4	4	4	4	4
+GM1666	Zevenhuizen-Moerkapelle	5	5	5	5	5	5	null	null	null	null	null	null	null	null
+GM1667	Reusel-De Mierden	6	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM1669	Roerdalen	15	15	15	14	14	14	14	14	14	14	14	14	14	14
+GM1670	Roggel en Neer	6	6	6	null	null	null	null	null	null	null	null	null	null	null
+GM1671	Maasdonk	3	3	3	3	3	3	3	3	4	4	4	null	null	null
+GM1672	Rijnwoude	5	5	5	5	5	5	5	5	5	5	null	null	null	null
+GM1673	Liemeer	5	5	5	null	null	null	null	null	null	null	null	null	null	null
+GM1674	Roosendaal	9	9	9	9	9	9	9	9	9	10	10	10	10	11
+GM1676	Schouwen-Duiveland	6	6	6	6	6	6	6	6	6	6	6	6	6	7
+GM1679	Ambt Montfort	12	12	12	null	null	null	null	null	null	null	null	null	null	null
+GM1680	Aa en Hunze	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM1681	Borger-Odoorn	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM1684	Cuijk	10	10	10	10	10	10	10	10	10	10	10	10	9	10
+GM1685	Landerd	4	5	4	4	4	4	4	4	4	4	4	5	5	5
+GM1690	De Wolden	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM1695	Noord-Beveland	7	7	7	8	7	7	7	8	8	8	8	9	9	9
+GM1696	Wijdemeren	8	8	8	8	8	8	8	8	8	8	8	8	8	9
+GM1699	Noordenveld	5	5	4	4	4	4	4	4	4	5	5	5	5	4
+GM1700	Twenterand	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM1701	Westerveld	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM1702	Sint Anthonis	4	3	3	4	4	4	4	4	4	4	4	4	4	4
+GM1705	Lingewaard	7	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM1706	Cranendonck	12	12	12	12	12	12	12	12	12	12	12	12	12	12
+GM1708	Steenwijkerland	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM1709	Moerdijk	5	5	5	5	5	5	5	6	6	6	6	6	6	7
+GM1711	Echt-Susteren	14	14	14	14	14	14	14	14	14	14	14	14	14	13
+GM1714	Sluis	20	20	20	20	20	20	20	21	21	22	22	23	23	24
+GM1719	Drimmelen	5	5	5	5	5	5	5	5	5	5	5	6	6	6
+GM1721	Bernheze	4	4	4	4	4	5	5	5	5	5	5	5	5	6
+GM1722	Ferwerderadiel	3	3	3	3	3	3	4	4	4	4	4	4	4	4
+GM1723	Alphen-Chaam	11	11	11	11	11	11	11	11	11	11	11	11	11	12
+GM1724	Bergeijk	7	7	7	7	7	7	7	7	7	7	7	7	7	8
+GM1728	Bladel	6	6	6	6	6	6	6	6	6	6	7	7	7	7
+GM1729	Gulpen-Wittem	12	12	12	12	12	12	12	12	12	11	12	12	11	12
+GM1730	Tynaarlo	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM1731	Midden-Drenthe	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM1734	Overbetuwe	7	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM1735	Hof van Twente	5	5	6	5	5	5	5	5	5	5	5	5	5	6
+GM1740	Neder-Betuwe	4	4	4	4	4	4	4	4	4	4	4	4	5	5
+GM1742	Rijssen-Holten	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM1771	Geldrop-Mierlo	9	9	9	9	9	9	9	9	9	9	9	9	9	9
+GM1773	Olst-Wijhe	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM1774	Dinkelland	6	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM1783	Westland	4	5	5	5	5	5	5	5	7	8	8	8	8	8
+GM1842	Midden-Delfland	5	5	5	5	5	5	5	5	5	6	6	6	6	6
+GM1883	Sittard-Geleen	16	16	16	16	16	16	16	16	15	15	15	15	15	15
+GM1896	Zwartewaterland	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM1916	Leidschendam-Voorburg	14	14	14	14	14	14	14	14	14	14	14	14	14	14
+GM1926	Pijnacker-Nootdorp	7	7	7	7	7	7	8	8	8	8	8	8	8	8
+GM1937	Heel	9	9	9	null	null	null	null	null	null	null	null	null	null	null
+GM1987	Menterwolde	4	4	4	4	4	4	4	4	4	5	4	4	4	4
+GM9999		null	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM1509	Oude IJsselstreek	null	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM1859	Berkelland	null	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM1876	Bronckhorst	null	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM1955	Montferland	null	8	8	8	8	8	8	8	8	8	8	8	8	8
+GM1525	Teylingen	null	null	7	8	8	8	8	9	9	9	9	9	9	9
+GM1581	Utrechtse Heuvelrug	null	null	8	8	8	8	8	8	8	8	8	8	8	8
+GM1586	Oost Gelre	null	null	null	5	5	5	5	5	5	5	5	5	5	5
+GM1598	Koggenland	null	null	null	4	4	4	5	5	5	5	5	5	5	5
+GM1621	Lansingerland	null	null	null	7	7	7	7	7	7	7	7	7	7	7
+GM1640	Leudal	null	null	null	9	9	9	8	9	9	9	9	9	9	9
+GM1641	Maasgouw	null	null	null	11	11	11	11	11	11	11	11	11	11	11
+GM1884	Kaag en Braassem	null	null	null	null	null	5	5	5	5	5	5	6	6	6
+GM1891	Dantumadiel	null	null	null	null	null	2	2	2	2	2	2	2	2	2
+GM1892	Zuidplas	null	null	null	null	null	null	7	8	8	8	8	8	8	8
+GM1894	Peel en Maas	null	null	null	null	null	null	6	6	7	7	7	7	7	7
+GM1895	Oldambt	null	null	null	null	null	null	7	7	7	7	7	7	7	7
+GM1900	Sûdwest Fryslân	null	null	null	null	null	null	null	5	5	5	5	5	5	5
+GM1901	Bodegraven-Reeuwijk	null	null	null	null	null	null	null	6	6	6	6	6	6	6
+GM1903	Eijsden-Margraten	null	null	null	null	null	null	null	10	10	10	10	10	10	10
+GM1904	Stichtse Vecht	null	null	null	null	null	null	null	9	9	9	9	9	9	9
+GM1908	Menameradiel	null	null	null	null	null	null	null	4	4	4	4	4	4	4
+GM1911	Hollands Kroon	null	null	null	null	null	null	null	null	6	6	6	6	7	7
+GM1924	Goeree-Overflakkee	null	null	null	null	null	null	null	null	null	4	4	4	4	4
+GM1927	Molenwaard	null	null	null	null	null	null	null	null	null	3	3	3	3	3
+GM1921	De Friese Meren	null	null	null	null	null	null	null	null	null	null	5	5	null	null
+GM1930	Nissewaard	null	null	null	null	null	null	null	null	null	null	null	9	9	9
+GM1931	Krimpenerwaard	null	null	null	null	null	null	null	null	null	null	null	5	5	5
+GM1940	De Fryske Marren	null	null	null	null	null	null	null	null	null	null	null	null	5	5
+GM1942	Gooise Meren	null	null	null	null	null	null	null	null	null	null	null	null	12	12
+GM1945	Berg en Dal	null	null	null	null	null	null	null	null	null	null	null	null	10	10
+GM1948	Meierijstad	null	null	null	null	null	null	null	null	null	null	null	null	null	7

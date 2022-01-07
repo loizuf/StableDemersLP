@@ -1,0 +1,8 @@
+Code	States	Test1	test2	test3
+A	AA	100	1600	50
+B	BB	100	null	null
+C	CC	1600	null	null
+-D	-DD	100	1000	5
+E	EE	1600	null	null
+F	FF	null	100	1
+G	GG	null	100	1

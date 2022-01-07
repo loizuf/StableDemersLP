@@ -1,0 +1,13 @@
+Code	States	5squareCenter	obstacle	all_origin
+A	AA	null	1	1
+B	BB	null	2	1
+C	CC	null	3	null
+D	DD	null	4	null
+E	EE	null	5	null
+F	FF	8	null	null
+G	GG	8	null	null
+H	HH	4	null	null
+I	II	1	null	null
+J	JJ	4	null	null
+K	KK	null	null	10
+L	LL	null	null	10

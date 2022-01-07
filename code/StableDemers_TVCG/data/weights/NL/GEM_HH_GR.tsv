@@ -1,0 +1,516 @@
+code	name	2004	2005	2006	2007	2008	2009	2010	2011	2012	2013	2014	2015	2016	2017
+GM0003	Appingedam	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1	2.1	2.1	2.1	2.1
+GM0005	Bedum	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3
+GM0007	Bellingwedde	2.3	2.2	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0009	Ten Boer	2.7	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4
+GM0010	Delfzijl	2.3	2.2	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1
+GM0014	Groningen	1.7	1.7	1.7	1.7	1.7	1.7	1.7	1.7	1.7	1.7	1.6	1.6	1.6	1.6
+GM0015	Grootegast	2.7	2.6	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5
+GM0017	Haren	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0018	Hoogezand-Sappemeer	2.3	2.2	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1
+GM0022	Leek	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3
+GM0024	Loppersum	2.5	2.4	2.5	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0025	Marum	2.6	2.5	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4
+GM0034	Almere	2.5	2.4	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0037	Stadskanaal	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0039	Scheemda	2.4	2.4	2.4	2.4	2.4	2.4	null	null	null	null	null	null	null	null
+GM0040	Slochteren	2.5	2.4	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3
+GM0047	Veendam	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0048	Vlagtwedde	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.1	2.2
+GM0050	Zeewolde	2.7	2.7	2.7	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.5	2.4	2.4	2.4
+GM0051	Skarsterlân	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	null	null	null	null
+GM0052	Winschoten	2.1	2.1	2.1	2.1	2.1	2.1	null	null	null	null	null	null	null	null
+GM0053	Winsum	2.5	2.4	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3
+GM0055	Boarnsterhim	2.4	2.3	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	null	null	null	null
+GM0056	Zuidhorn	2.6	2.5	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4
+GM0058	Dongeradeel	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3
+GM0059	Achtkarspelen	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0060	Ameland	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0063	het Bildt	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0064	Bolsward	2.3	2.2	2.3	2.3	2.3	2.2	2.2	null	null	null	null	null	null	null
+GM0065	Dantumadeel	2.6	2.6	2.6	2.6	2.5	null	null	null	null	null	null	null	null	null
+GM0070	Franekeradeel	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2
+GM0072	Harlingen	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1	2.1
+GM0074	Heerenveen	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0079	Kollumerland c.a.	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0080	Leeuwarden	2	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.9
+GM0081	Leeuwarderadeel	2.6	2.5	2.6	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3
+GM0082	Lemsterland	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	null	null	null	null
+GM0083	Menaldumadeel	2.5	2.5	2.5	2.5	2.4	2.4	2.4	null	null	null	null	null	null	null
+GM0085	Ooststellingwerf	2.4	2.3	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2
+GM0086	Opsterland	2.5	2.4	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3
+GM0088	Schiermonnikoog	2	2	2	2	1.9	2	2	2	2	1.9	1.9	1.9	1.8	1.8
+GM0090	Smallingerland	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0091	Sneek	2.3	2.2	2.2	2.2	2.2	2.2	2.2	null	null	null	null	null	null	null
+GM0093	Terschelling	2.1	2	2.1	2.2	2.1	2.1	2.2	2	2	2	1.9	1.9	1.9	1.9
+GM0096	Vlieland	2.1	2	2.1	2.1	2.1	2.1	2.1	2	2	1.9	1.9	1.8	1.8	1.8
+GM0098	Weststellingwerf	2.3	2.3	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2
+GM0104	Nijefurd	2.4	2.3	2.4	2.3	2.3	2.3	2.3	null	null	null	null	null	null	null
+GM0106	Assen	2.3	2.2	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0109	Coevorden	2.4	2.3	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0114	Emmen	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0118	Hoogeveen	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0119	Meppel	2.3	2.2	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0140	Littenseradiel	2.6	2.5	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4
+GM0141	Almelo	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2
+GM0144	Bathmen	2.5	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0147	Borne	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0148	Dalfsen	2.7	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5
+GM0150	Deventer	2.2	2.1	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0153	Enschede	2.1	2	2.1	2.1	2.1	2	2	2	2	2	2	2	2	2
+GM0158	Haaksbergen	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4
+GM0160	Hardenberg	2.7	2.6	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.5	2.6	2.5	2.5	2.5
+GM0163	Hellendoorn	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4
+GM0164	Hengelo (O.)	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0166	Kampen	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4
+GM0168	Losser	2.6	2.5	2.6	2.6	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0171	Noordoostpolder	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0173	Oldenzaal	2.4	2.3	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0175	Ommen	2.6	2.5	2.6	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0177	Raalte	2.6	2.5	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4
+GM0180	Staphorst	3.2	3.1	3.2	3.1	3.1	3.1	3.1	3.1	3	3	3	2.9	2.9	2.9
+GM0183	Tubbergen	3	2.9	2.9	2.9	2.9	2.9	2.8	2.7	2.7	2.7	2.7	2.7	2.7	2.6
+GM0184	Urk	3.6	3.5	3.5	3.5	3.5	3.5	3.4	3.4	3.4	3.4	3.4	3.3	3.3	3.3
+GM0189	Wierden	2.8	2.7	2.7	2.7	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.6
+GM0193	Zwolle	2.2	2.1	2.2	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.2	2.1	2.1	2.1
+GM0196	Rijnwaarden	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3
+GM0197	Aalten	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3
+GM0199	Angerlo	2.6	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0200	Apeldoorn	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2
+GM0202	Arnhem	2	1.9	2	2	2	2	2	2	2	2	2	2	2	2
+GM0203	Barneveld	2.8	2.8	2.8	2.8	2.8	2.7	2.7	2.7	2.7	2.7	2.7	2.7	2.6	2.6
+GM0207	Bergh	2.5	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0209	Beuningen	2.6	2.5	2.6	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.3	2.3
+GM0211	Borculo	2.5	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0213	Brummen	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3
+GM0214	Buren	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.4
+GM0216	Culemborg	2.5	2.4	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3
+GM0218	Didam	2.6	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0219	Dinxperlo	2.5	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0221	Doesburg	2.4	2.3	2.4	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0222	Doetinchem	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2
+GM0225	Druten	2.6	2.5	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4
+GM0226	Duiven	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4
+GM0228	Ede	2.5	2.4	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3
+GM0229	Eibergen	2.6	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0230	Elburg	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5
+GM0232	Epe	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3
+GM0233	Ermelo	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0236	Geldermalsen	2.6	2.5	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5
+GM0237	Gendringen	2.6	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0239	Gorssel	2.4	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0240	Groenlo	2.4	2.6	2.6	null	null	null	null	null	null	null	null	null	null	null
+GM0241	Groesbeek	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.2	null	null
+GM0243	Harderwijk	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3
+GM0244	Hattem	2.5	2.4	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0246	Heerde	2.5	2.4	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4
+GM0248	Hengelo (Gld.)	2.6	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0252	Heumen	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3
+GM0256	Hummelo en Keppel	2.5	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0260	Lichtenvoorde	2.7	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0262	Lochem	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0263	Maasdriel	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4
+GM0265	Millingen aan de Rijn	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	null	null	null
+GM0266	Neede	2.5	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0267	Nijkerk	2.6	2.5	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5
+GM0268	Nijmegen	1.9	1.8	1.9	1.9	1.9	1.8	1.8	1.8	1.8	1.8	1.8	1.8	1.8	1.8
+GM0269	Oldebroek	2.9	2.8	2.8	2.8	2.8	2.8	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.5
+GM0273	Putten	2.7	2.6	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5
+GM0274	Renkum	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1	2.1	2.1
+GM0275	Rheden	2.2	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2	2
+GM0277	Rozendaal	2.4	2.3	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.4	2.3
+GM0278	Ruurlo	2.5	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0279	Scherpenzeel	2.7	2.6	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5
+GM0280	Steenderen	2.7	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0281	Tiel	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3
+GM0282	Ubbergen	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1	null	null	null
+GM0285	Voorst	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0286	Vorden	2.5	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0289	Wageningen	1.8	1.7	1.8	1.8	1.7	1.7	1.7	1.7	1.7	1.7	1.7	1.7	1.7	1.7
+GM0291	Warnsveld	2.6	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0292	Wehl	2.8	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0293	Westervoort	2.6	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.2
+GM0294	Winterswijk	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2
+GM0295	Wisch	2.5	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0296	Wijchen	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3
+GM0297	Zaltbommel	2.7	2.6	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5
+GM0298	Zelhem	2.6	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0299	Zevenaar	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0301	Zutphen	2.2	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1
+GM0302	Nunspeet	2.7	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5
+GM0303	Dronten	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.4	2.3	2.3	2.3
+GM0304	Neerijnen	2.7	2.6	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6
+GM0305	Abcoude	2.5	2.5	2.5	2.5	2.5	2.5	2.5	null	null	null	null	null	null	null
+GM0306	Amerongen	2.5	2.5	null	null	null	null	null	null	null	null	null	null	null	null
+GM0307	Amersfoort	2.3	2.2	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0308	Baarn	2.2	2.1	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1	2.2	2.1	2.1	2.1
+GM0310	De Bilt	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0311	Breukelen	2.4	2.4	2.4	2.4	2.4	2.4	2.3	null	null	null	null	null	null	null
+GM0312	Bunnik	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3
+GM0313	Bunschoten	2.9	2.8	2.9	2.8	2.8	2.8	2.7	2.7	2.7	2.7	2.6	2.6	2.6	2.6
+GM0315	Doorn	2.2	2.1	null	null	null	null	null	null	null	null	null	null	null	null
+GM0316	Driebergen-Rijsenburg	2.3	2.2	null	null	null	null	null	null	null	null	null	null	null	null
+GM0317	Eemnes	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4
+GM0321	Houten	2.7	2.6	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5
+GM0326	Leersum	2.4	2.3	null	null	null	null	null	null	null	null	null	null	null	null
+GM0327	Leusden	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3
+GM0329	Loenen	2.4	2.4	2.4	2.4	2.4	2.4	2.4	null	null	null	null	null	null	null
+GM0331	Lopik	2.8	2.7	2.8	2.7	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.6
+GM0332	Maarn	2.4	2.3	null	null	null	null	null	null	null	null	null	null	null	null
+GM0333	Maarssen	2.4	2.4	2.4	2.4	2.4	2.4	2.3	null	null	null	null	null	null	null
+GM0335	Montfoort	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5
+GM0339	Renswoude	2.8	2.8	2.8	2.8	2.8	2.8	2.8	2.7	2.8	2.7	2.7	2.7	2.7	2.7
+GM0340	Rhenen	2.5	2.4	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4
+GM0342	Soest	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.3	2.3	2.2	2.2	2.2	2.3
+GM0344	Utrecht	1.9	1.8	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.9
+GM0345	Veenendaal	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0351	Woudenberg	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.6	2.5	2.6	2.5
+GM0352	Wijk bij Duurstede	2.6	2.5	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4
+GM0353	IJsselstein	2.5	2.4	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0355	Zeist	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1
+GM0356	Nieuwegein	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0358	Aalsmeer	2.4	2.3	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0361	Alkmaar	2.2	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1
+GM0362	Amstelveen	2	2	2	2	2	2	2	2	2	2	2.1	2	2.1	2.1
+GM0363	Amsterdam	1.8	1.8	1.8	1.8	1.8	1.8	1.8	1.8	1.8	1.8	1.8	1.8	1.8	1.8
+GM0364	Andijk	2.6	2.5	2.5	2.5	2.5	2.4	2.4	null	null	null	null	null	null	null
+GM0365	Graft-De Rijp	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	null	null	null
+GM0366	Anna Paulowna	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.4	null	null	null	null	null	null
+GM0370	Beemster	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0372	Bennebroek	2.3	2.2	2.3	2.3	2.3	null	null	null	null	null	null	null	null	null
+GM0373	Bergen (NH.)	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1	2.1
+GM0375	Beverwijk	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1
+GM0376	Blaricum	2.4	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0377	Bloemendaal	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0381	Bussum	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.2	2.2	2.2	2.2	2.1	null	null
+GM0383	Castricum	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0384	Diemen	2.1	2.1	2.1	2.1	2.1	2	2	2	2	2	2	2	2	2
+GM0385	Edam-Volendam	2.6	2.5	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4
+GM0388	Enkhuizen	2.3	2.2	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.1
+GM0392	Haarlem	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0393	Haarlemmerliede c.a.	2.5	2.4	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3
+GM0394	Haarlemmermeer	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0395	Harenkarspel	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	null	null	null	null	null
+GM0396	Heemskerk	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2
+GM0397	Heemstede	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0398	Heerhugowaard	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0399	Heiloo	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2
+GM0400	Den Helder	2.2	2.1	2.2	2.2	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2
+GM0402	Hilversum	2.1	2	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1
+GM0405	Hoorn	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0406	Huizen	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2
+GM0412	Niedorp	2.6	2.5	2.6	2.6	2.5	2.5	2.5	2.5	null	null	null	null	null	null
+GM0415	Landsmeer	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0416	Langedijk	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4
+GM0417	Laren	2.1	2.1	2.2	2.2	2.2	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.2
+GM0420	Medemblik	2.3	2.2	2.3	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0424	Muiden	2.4	2.3	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	null	null
+GM0425	Naarden	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	null	null
+GM0429	Obdam	2.7	2.6	2.6	null	null	null	null	null	null	null	null	null	null	null
+GM0431	Oostzaan	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0432	Opmeer	2.7	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4
+GM0437	Ouder-Amstel	2.3	2.2	2.3	2.3	2.3	2.3	2.3	2.2	2.3	2.2	2.2	2.2	2.2	2.2
+GM0439	Purmerend	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2
+GM0441	Schagen	2.3	2.2	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.3	2.3	2.3	2.3	2.3
+GM0448	Texel	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1
+GM0450	Uitgeest	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4
+GM0451	Uithoorn	2.4	2.3	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0453	Velsen	2.3	2.2	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0454	Venhuizen	2.5	2.5	null	null	null	null	null	null	null	null	null	null	null	null
+GM0457	Weesp	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1
+GM0458	Schermer	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	null	null	null
+GM0459	Wervershoof	2.6	2.6	2.6	2.6	2.6	2.6	2.5	null	null	null	null	null	null	null
+GM0462	Wieringen	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	null	null	null	null	null	null
+GM0463	Wieringermeer	2.5	2.4	2.5	2.5	2.4	2.4	2.4	2.4	null	null	null	null	null	null
+GM0466	Wognum	2.7	2.7	2.7	null	null	null	null	null	null	null	null	null	null	null
+GM0473	Zandvoort	2	1.9	2	2	2	2	2	2	2	2	2	2	2	2
+GM0476	Zijpe	2.5	2.4	2.5	2.5	2.4	2.4	2.4	2.4	2.4	null	null	null	null	null
+GM0478	Zeevang	2.6	2.5	2.5	2.5	2.6	2.5	2.5	2.5	2.5	2.4	2.4	2.4	null	null
+GM0479	Zaanstad	2.3	2.2	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0480	Ter Aar	2.8	2.7	2.7	null	null	null	null	null	null	null	null	null	null	null
+GM0482	Alblasserdam	2.5	2.4	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5
+GM0483	Alkemade	2.6	2.6	2.6	2.6	2.6	null	null	null	null	null	null	null	null	null
+GM0484	Alphen aan den Rijn	2.4	2.3	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0489	Barendrecht	2.6	2.5	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5
+GM0491	Bergambacht	2.6	2.5	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	null	null	null
+GM0492	Bergschenhoek	2.8	2.7	2.8	null	null	null	null	null	null	null	null	null	null	null
+GM0493	Berkel en Rodenrijs	2.6	2.5	2.5	null	null	null	null	null	null	null	null	null	null	null
+GM0495	Bleiswijk	2.7	2.7	2.7	null	null	null	null	null	null	null	null	null	null	null
+GM0497	Bodegraven	2.6	2.6	2.6	2.6	2.6	2.6	2.5	null	null	null	null	null	null	null
+GM0498	Drechterland	2.7	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4
+GM0499	Boskoop	2.5	2.4	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	null	null	null	null
+GM0501	Brielle	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0502	Capelle aan den IJssel	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.1
+GM0503	Delft	1.9	1.8	1.9	1.8	1.8	1.8	1.8	1.8	1.8	1.8	1.8	1.8	1.8	1.8
+GM0504	Dirksland	2.6	2.5	2.6	2.6	2.5	2.5	2.5	2.4	2.5	null	null	null	null	null
+GM0505	Dordrecht	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.2	2.2	2.2	2.1	2.1	2.1
+GM0511	Goedereede	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	null	null	null	null	null
+GM0512	Gorinchem	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0513	Gouda	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0517	's-Gravendeel	2.4	2.4	2.4	null	null	null	null	null	null	null	null	null	null	null
+GM0518	's-Gravenhage	2	1.9	2	2	2	2	2	2	2	2	2	2	2	2
+GM0523	Hardinxveld-Giessendam	2.7	2.7	2.7	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6
+GM0529	Noorder-Koggenland	2.6	2.5	2.5	null	null	null	null	null	null	null	null	null	null	null
+GM0530	Hellevoetsluis	2.4	2.3	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2
+GM0531	Hendrik-Ido-Ambacht	2.6	2.5	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5
+GM0532	Stede Broec	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0534	Hillegom	2.4	2.3	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2
+GM0537	Katwijk	2.6	2.5	2.7	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5
+GM0542	Krimpen aan den IJssel	2.5	2.4	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.4
+GM0545	Leerdam	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0546	Leiden	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.8	1.8	1.8	1.8	1.8
+GM0547	Leiderdorp	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2
+GM0553	Lisse	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2
+GM0556	Maassluis	2.4	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0558	Wester-Koggenland	2.6	2.6	2.6	null	null	null	null	null	null	null	null	null	null	null
+GM0559	Middelharnis	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.3	null	null	null	null	null
+GM0563	Moordrecht	2.6	2.6	2.6	2.6	2.6	2.6	null	null	null	null	null	null	null	null
+GM0567	Nieuwerkerk aan den IJssel	2.6	2.5	2.6	2.5	2.5	2.5	null	null	null	null	null	null	null	null
+GM0568	Bernisse	2.5	2.4	2.5	2.5	2.4	2.4	2.4	2.4	2.3	2.3	2.3	null	null	null
+GM0569	Nieuwkoop	2.6	2.5	2.6	2.6	2.6	2.6	2.6	2.5	2.4	2.4	2.5	2.4	2.4	2.4
+GM0571	Nieuw-Lekkerland	2.9	2.9	2.9	2.9	2.9	2.8	2.8	2.8	2.8	null	null	null	null	null
+GM0575	Noordwijk	2.3	2.2	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1
+GM0576	Noordwijkerhout	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0579	Oegstgeest	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0580	Oostflakkee	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.3	2.3	null	null	null	null	null
+GM0584	Oud-Beijerland	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4
+GM0585	Binnenmaas	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0588	Korendijk	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4
+GM0589	Oudewater	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4
+GM0590	Papendrecht	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0595	Reeuwijk	2.6	2.6	2.6	2.6	2.5	2.5	2.5	null	null	null	null	null	null	null
+GM0597	Ridderkerk	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0599	Rotterdam	2	1.9	2	2	2	2	2	1.9	1.9	1.9	2	2	2	2
+GM0600	Rozenburg	2.3	2.2	2.3	2.3	2.3	2.3	2.2	null	null	null	null	null	null	null
+GM0602	Rijnsburg	2.8	2.7	null	null	null	null	null	null	null	null	null	null	null	null
+GM0603	Rijswijk	2	1.9	2	2	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.9	1.9	2
+GM0604	Sassenheim	2.4	2.4	null	null	null	null	null	null	null	null	null	null	null	null
+GM0606	Schiedam	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1
+GM0608	Schoonhoven	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	null	null	null
+GM0610	Sliedrecht	2.4	2.3	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0611	Cromstrijen	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3
+GM0612	Spijkenisse	2.4	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	null	null	null
+GM0613	Albrandswaard	2.5	2.4	2.5	2.5	2.5	2.5	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4
+GM0614	Westvoorne	2.4	2.3	2.4	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2
+GM0617	Strijen	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3
+GM0619	Valkenburg	2.7	2.7	null	null	null	null	null	null	null	null	null	null	null	null
+GM0620	Vianen	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0622	Vlaardingen	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1
+GM0623	Vlist	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	null	null	null
+GM0625	Voorhout	2.7	2.7	null	null	null	null	null	null	null	null	null	null	null	null
+GM0626	Voorschoten	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0627	Waddinxveen	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0628	Warmond	2.3	2.3	null	null	null	null	null	null	null	null	null	null	null	null
+GM0629	Wassenaar	2.3	2.2	2.3	2.2	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0632	Woerden	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0637	Zoetermeer	2.4	2.3	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2
+GM0638	Zoeterwoude	2.7	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4
+GM0642	Zwijndrecht	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0643	Nederlek	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	null	null	null
+GM0644	Ouderkerk	2.7	2.6	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	null	null	null
+GM0645	Jacobswoude	2.6	2.5	2.6	2.5	2.5	null	null	null	null	null	null	null	null	null
+GM0653	Gaasterlân-Sleat	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	null	null	null	null
+GM0654	Borsele	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0664	Goes	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1	2.1	2.1	2.1
+GM0668	West Maas en Waal	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.3	2.3	2.3
+GM0677	Hulst	2.3	2.2	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0678	Kapelle	2.6	2.5	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4
+GM0683	Wymbritseradiel	2.6	2.5	2.6	2.5	2.5	2.5	2.5	null	null	null	null	null	null	null
+GM0687	Middelburg	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1
+GM0689	Giessenlanden	2.7	2.6	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5
+GM0693	Graafstroom	3	2.9	3	2.9	2.9	2.9	2.9	2.9	2.9	null	null	null	null	null
+GM0694	Liesveld	2.8	2.7	2.8	2.8	2.7	2.7	2.7	2.7	2.7	null	null	null	null	null
+GM0703	Reimerswaal	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5
+GM0707	Zederik	2.8	2.7	2.8	2.8	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.6
+GM0710	Wûnseradiel	2.5	2.4	2.5	2.5	2.4	2.4	2.4	null	null	null	null	null	null	null
+GM0715	Terneuzen	2.3	2.2	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1	2.1
+GM0716	Tholen	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5
+GM0717	Veere	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3
+GM0718	Vlissingen	2.1	2	2.1	2	2	2	2	2	2	2	2	2	2	2
+GM0733	Lingewaal	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5
+GM0736	De Ronde Venen	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3
+GM0737	Tytsjerksteradiel	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3
+GM0738	Aalburg	2.9	2.8	2.9	2.8	2.8	2.8	2.8	2.8	2.7	2.7	2.7	2.7	2.7	2.6
+GM0743	Asten	2.6	2.5	2.6	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3
+GM0744	Baarle-Nassau	2.4	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.3	2.3	2.3	2.2	2.2	2.2
+GM0748	Bergen op Zoom	2.3	2.2	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0753	Best	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4
+GM0755	Boekel	2.8	2.7	2.8	2.7	2.7	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.5
+GM0756	Boxmeer	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3
+GM0757	Boxtel	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2
+GM0758	Breda	2.2	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1
+GM0762	Deurne	2.6	2.5	2.6	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3
+GM0765	Pekela	2.4	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0766	Dongen	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3
+GM0770	Eersel	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3
+GM0772	Eindhoven	2	2	2	2	2	2	2	1.9	2	2	2	1.9	1.9	1.9
+GM0777	Etten-Leur	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3
+GM0779	Geertruidenberg	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0784	Gilze en Rijen	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3
+GM0785	Goirle	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3
+GM0786	Grave	2.5	2.4	2.5	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0788	Haaren	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.4	2.4	2.4
+GM0794	Helmond	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0796	's-Hertogenbosch	2.2	2.1	2.2	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1
+GM0797	Heusden	2.6	2.5	2.6	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0798	Hilvarenbeek	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4
+GM0808	Lith	2.8	2.8	2.8	2.8	2.7	2.7	2.7	null	null	null	null	null	null	null
+GM0809	Loon op Zand	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3
+GM0815	Mill en Sint Hubert	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4
+GM0820	Nuenen c.a.	2.6	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3
+GM0823	Oirschot	2.7	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4
+GM0824	Oisterwijk	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0826	Oosterhout	2.4	2.3	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2
+GM0828	Oss	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0840	Rucphen	2.5	2.4	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3
+GM0844	Schijndel	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.3	2.3	null
+GM0845	Sint-Michielsgestel	2.6	2.5	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4
+GM0846	Sint-Oedenrode	2.6	2.5	2.6	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	null
+GM0847	Someren	2.7	2.6	2.7	2.6	2.6	2.6	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4
+GM0848	Son en Breugel	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM0851	Steenbergen	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.2	2.2	2.3
+GM0852	Waterland	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3
+GM0855	Tilburg	2.1	2.1	2.1	2.1	2.1	2.1	2	2	2	2	2	2	2	2
+GM0856	Uden	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3
+GM0858	Valkenswaard	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0860	Veghel	2.6	2.5	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	null
+GM0861	Veldhoven	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0865	Vught	2.4	2.3	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM0866	Waalre	2.4	2.3	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3
+GM0867	Waalwijk	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2
+GM0870	Werkendam	2.7	2.6	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5
+GM0873	Woensdrecht	2.4	2.3	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3
+GM0874	Woudrichem	2.7	2.6	2.7	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.4
+GM0879	Zundert	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.2
+GM0880	Wormerland	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3
+GM0881	Onderbanken	2.5	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2
+GM0882	Landgraaf	2.3	2.2	2.3	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1	2.1	2.1	2.1
+GM0885	Arcen en Velden	2.6	2.5	2.5	2.5	2.4	2.4	null	null	null	null	null	null	null	null
+GM0888	Beek	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0889	Beesel	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3
+GM0893	Bergen (L.)	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3
+GM0899	Brunssum	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1
+GM0905	Eijsden	2.6	2.5	2.5	2.5	2.5	2.5	2.5	null	null	null	null	null	null	null
+GM0907	Gennep	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3
+GM0914	Haelen	2.5	2.4	2.4	null	null	null	null	null	null	null	null	null	null	null
+GM0917	Heerlen	2.1	2	2	2	2	2	2	2	2	1.9	1.9	1.9	1.9	1.9
+GM0918	Helden	2.6	2.6	2.6	2.6	2.5	2.5	null	null	null	null	null	null	null	null
+GM0920	Heythuysen	2.5	2.4	2.5	null	null	null	null	null	null	null	null	null	null	null
+GM0925	Hunsel	2.7	2.6	2.6	null	null	null	null	null	null	null	null	null	null	null
+GM0928	Kerkrade	2.1	2.1	2.1	2.1	2.1	2.1	2	2	2	2	2	2	2	2
+GM0929	Kessel	2.5	2.5	2.5	2.5	2.5	2.5	null	null	null	null	null	null	null	null
+GM0933	Maasbracht	2.4	2.3	2.4	null	null	null	null	null	null	null	null	null	null	null
+GM0934	Maasbree	2.7	2.6	2.6	2.6	2.6	2.6	null	null	null	null	null	null	null	null
+GM0935	Maastricht	2	1.9	1.9	1.9	1.9	1.9	1.9	1.8	1.8	1.8	1.8	1.8	1.8	1.7
+GM0936	Margraten	2.5	2.5	2.5	2.5	2.5	2.4	2.4	null	null	null	null	null	null	null
+GM0938	Meerssen	2.4	2.3	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2
+GM0941	Meijel	2.7	2.6	2.6	2.6	2.6	2.5	null	null	null	null	null	null	null	null
+GM0944	Mook en Middelaar	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.2	2.2
+GM0946	Nederweert	2.7	2.6	2.6	2.6	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.3	2.3
+GM0951	Nuth	2.4	2.3	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2
+GM0957	Roermond	2.2	2.1	2.2	2.2	2.2	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1
+GM0962	Schinnen	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2
+GM0964	Sevenum	2.6	2.6	2.6	2.6	2.5	2.5	null	null	null	null	null	null	null	null
+GM0965	Simpelveld	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM0971	Stein	2.4	2.3	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2
+GM0975	Swalmen	2.4	2.3	2.4	null	null	null	null	null	null	null	null	null	null	null
+GM0977	Thorn	2.4	2.3	2.3	null	null	null	null	null	null	null	null	null	null	null
+GM0981	Vaals	2.1	2	2.1	2.1	2	2	2	2	2	2	2	1.9	1.9	1.9
+GM0983	Venlo	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1
+GM0984	Venray	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3
+GM0986	Voerendaal	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2
+GM0988	Weert	2.4	2.3	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2
+GM0993	Meerlo-Wanssum	2.7	2.6	2.6	2.6	2.6	2.6	null	null	null	null	null	null	null	null
+GM0994	Valkenburg aan de Geul	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1	2.1	2.1	2.1	2
+GM0995	Lelystad	2.4	2.3	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM1507	Horst aan de Maas	2.6	2.5	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4
+GM1651	Eemsmond	2.4	2.3	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2
+GM1652	Gemert-Bakel	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4
+GM1655	Halderberge	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3
+GM1658	Heeze-Leende	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3
+GM1659	Laarbeek	2.6	2.5	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4
+GM1661	Reiderland	2.3	2.2	2.2	2.2	2.2	2.2	null	null	null	null	null	null	null	null
+GM1663	De Marne	2.3	2.2	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1
+GM1666	Zevenhuizen-Moerkapelle	2.7	2.6	2.7	2.6	2.6	2.6	null	null	null	null	null	null	null	null
+GM1667	Reusel-De Mierden	2.8	2.7	2.7	2.7	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.4	2.4	2.4
+GM1669	Roerdalen	2.4	2.3	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2
+GM1670	Roggel en Neer	2.6	2.5	2.5	null	null	null	null	null	null	null	null	null	null	null
+GM1671	Maasdonk	2.8	2.7	2.8	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.6	null	null	null
+GM1672	Rijnwoude	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	null	null	null	null
+GM1673	Liemeer	2.7	2.6	2.6	null	null	null	null	null	null	null	null	null	null	null
+GM1674	Roosendaal	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM1676	Schouwen-Duiveland	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM1679	Ambt Montfort	2.5	2.4	2.4	null	null	null	null	null	null	null	null	null	null	null
+GM1680	Aa en Hunze	2.4	2.3	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2
+GM1681	Borger-Odoorn	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3
+GM1684	Cuijk	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3
+GM1685	Landerd	2.7	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5
+GM1690	De Wolden	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM1695	Noord-Beveland	2.2	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1
+GM1696	Wijdemeren	2.4	2.3	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.2	2.3
+GM1699	Noordenveld	2.4	2.3	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2
+GM1700	Twenterand	2.8	2.7	2.8	2.7	2.7	2.7	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.6
+GM1701	Westerveld	2.4	2.3	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2
+GM1702	Sint Anthonis	2.7	2.7	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5
+GM1705	Lingewaard	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM1706	Cranendonck	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3
+GM1708	Steenwijkerland	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM1709	Moerdijk	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3
+GM1711	Echt-Susteren	2.4	2.3	2.4	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2	2.2	2.2
+GM1714	Sluis	2.2	2.2	2.2	2.2	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2.1
+GM1719	Drimmelen	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3
+GM1721	Bernheze	2.7	2.7	2.7	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5
+GM1722	Ferwerderadiel	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM1723	Alphen-Chaam	2.7	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4
+GM1724	Bergeijk	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4
+GM1728	Bladel	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.3
+GM1729	Gulpen-Wittem	2.5	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2
+GM1730	Tynaarlo	2.4	2.3	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM1731	Midden-Drenthe	2.5	2.4	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3
+GM1734	Overbetuwe	2.6	2.5	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4
+GM1735	Hof van Twente	2.5	2.4	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM1740	Neder-Betuwe	2.9	2.9	2.9	2.9	2.8	2.8	2.8	2.8	2.8	2.8	2.8	2.7	2.7	2.7
+GM1742	Rijssen-Holten	2.8	2.8	2.8	2.8	2.8	2.8	2.8	2.7	2.7	2.7	2.7	2.7	2.7	2.7
+GM1771	Geldrop-Mierlo	2.4	2.3	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.3	2.2	2.2
+GM1773	Olst-Wijhe	2.6	2.5	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4
+GM1774	Dinkelland	2.8	2.7	2.8	2.7	2.7	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.6
+GM1783	Westland	2.6	2.5	2.6	2.6	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4
+GM1842	Midden-Delfland	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.5
+GM1883	Sittard-Geleen	2.2	2.2	2.2	2.2	2.2	2.1	2.1	2.1	2.1	2.1	2.1	2.1	2	2
+GM1896	Zwartewaterland	2.9	2.8	2.8	2.8	2.8	2.8	2.7	2.7	2.7	2.7	2.7	2.7	2.7	2.6
+GM1916	Leidschendam-Voorburg	2.1	2.1	2.1	2.1	2.1	2.1	2	2	2	2	2	2.1	2	2.1
+GM1926	Pijnacker-Nootdorp	2.7	2.6	2.7	2.7	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6
+GM1937	Heel	2.5	2.4	2.5	null	null	null	null	null	null	null	null	null	null	null
+GM1987	Menterwolde	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3	2.3	2.2
+GM9999		null	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM1509	Oude IJsselstreek	null	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3
+GM1859	Berkelland	null	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3	2.3
+GM1876	Bronckhorst	null	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.3
+GM1955	Montferland	null	2.5	2.6	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.3	2.3	2.3
+GM1525	Teylingen	null	null	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM1581	Utrechtse Heuvelrug	null	null	2.4	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2	2.2
+GM1586	Oost Gelre	null	null	null	2.6	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4	2.4
+GM1598	Koggenland	null	null	null	2.6	2.6	2.5	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4
+GM1621	Lansingerland	null	null	null	2.7	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6	2.6
+GM1640	Leudal	null	null	null	2.5	2.5	2.4	2.4	2.4	2.4	2.3	2.3	2.3	2.3	2.3
+GM1641	Maasgouw	null	null	null	2.4	2.3	2.3	2.3	2.3	2.3	2.2	2.2	2.2	2.2	2.2
+GM1884	Kaag en Braassem	null	null	null	null	null	2.5	2.5	2.5	2.4	2.4	2.4	2.4	2.4	2.4
+GM1891	Dantumadiel	null	null	null	null	null	2.5	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4
+GM1892	Zuidplas	null	null	null	null	null	null	2.5	2.5	2.5	2.5	2.4	2.4	2.4	2.4
+GM1894	Peel en Maas	null	null	null	null	null	null	2.6	2.5	2.5	2.5	2.4	2.4	2.4	2.4
+GM1895	Oldambt	null	null	null	null	null	null	2.2	2.2	2.2	2.1	2.1	2.1	2.1	2.1
+GM1900	Sûdwest Fryslân	null	null	null	null	null	null	null	2.3	2.3	2.3	2.3	2.3	2.2	2.2
+GM1901	Bodegraven-Reeuwijk	null	null	null	null	null	null	null	2.5	2.5	2.5	2.5	2.5	2.5	2.4
+GM1903	Eijsden-Margraten	null	null	null	null	null	null	null	2.4	2.4	2.4	2.4	2.3	2.3	2.3
+GM1904	Stichtse Vecht	null	null	null	null	null	null	null	2.3	2.3	2.3	2.3	2.3	2.3	2.3
+GM1908	Menameradiel	null	null	null	null	null	null	null	2.4	2.4	2.4	2.4	2.4	2.4	2.3
+GM1911	Hollands Kroon	null	null	null	null	null	null	null	null	2.4	2.4	2.4	2.3	2.3	2.3
+GM1924	Goeree-Overflakkee	null	null	null	null	null	null	null	null	null	2.4	2.4	2.4	2.3	2.3
+GM1927	Molenwaard	null	null	null	null	null	null	null	null	null	2.7	2.7	2.7	2.7	2.7
+GM1921	De Friese Meren	null	null	null	null	null	null	null	null	null	null	2.4	2.3	null	null
+GM1930	Nissewaard	null	null	null	null	null	null	null	null	null	null	null	2.2	2.2	2.2
+GM1931	Krimpenerwaard	null	null	null	null	null	null	null	null	null	null	null	2.4	2.4	2.4
+GM1940	De Fryske Marren	null	null	null	null	null	null	null	null	null	null	null	null	2.3	2.3
+GM1942	Gooise Meren	null	null	null	null	null	null	null	null	null	null	null	null	2.2	2.2
+GM1945	Berg en Dal	null	null	null	null	null	null	null	null	null	null	null	null	2.2	2.2
+GM1948	Meierijstad	null	null	null	null	null	null	null	null	null	null	null	null	null	2.4

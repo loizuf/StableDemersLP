@@ -1,0 +1,516 @@
+code	name	2004	2005	2006	2007	2008	2009	2010	2011	2012	2013	2014	2015	2016	2017
+GM0003	Appingedam	2	2	2	2	2	2	2	3	2	2	2	2	2	2
+GM0005	Bedum	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0007	Bellingwedde	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0009	Ten Boer	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0010	Delfzijl	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0014	Groningen	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0015	Grootegast	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0017	Haren	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0018	Hoogezand-Sappemeer	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0022	Leek	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0024	Loppersum	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+GM0025	Marum	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0034	Almere	1	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0037	Stadskanaal	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0039	Scheemda	0	0	0	0	0	0	null	null	null	null	null	null	null	null
+GM0040	Slochteren	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0047	Veendam	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0048	Vlagtwedde	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0050	Zeewolde	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0051	Skarsterlân	0	0	0	0	0	0	0	0	0	0	null	null	null	null
+GM0052	Winschoten	0	0	0	0	0	0	null	null	null	null	null	null	null	null
+GM0053	Winsum	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0055	Boarnsterhim	0	0	0	0	0	0	0	0	0	0	null	null	null	null
+GM0056	Zuidhorn	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0058	Dongeradeel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0059	Achtkarspelen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0060	Ameland	-999999999	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0063	het Bildt	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0064	Bolsward	1	1	1	1	1	1	1	null	null	null	null	null	null	null
+GM0065	Dantumadeel	0	0	0	0	0	null	null	null	null	null	null	null	null	null
+GM0070	Franekeradeel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0072	Harlingen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0074	Heerenveen	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0079	Kollumerland c.a.	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0080	Leeuwarden	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0081	Leeuwarderadeel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0082	Lemsterland	1	1	1	1	1	1	1	1	1	1	null	null	null	null
+GM0083	Menaldumadeel	0	0	0	0	0	0	0	null	null	null	null	null	null	null
+GM0085	Ooststellingwerf	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0086	Opsterland	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0088	Schiermonnikoog	-999999999	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0090	Smallingerland	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0091	Sneek	0	0	0	0	0	0	0	null	null	null	null	null	null	null
+GM0093	Terschelling	-999999999	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0096	Vlieland	-999999999	-99999999	0	0	0	0	0	0	0	0	0	0	0	0
+GM0098	Weststellingwerf	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0104	Nijefurd	-999999999	0	0	0	0	0	0	null	null	null	null	null	null	null
+GM0106	Assen	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0109	Coevorden	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0114	Emmen	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0118	Hoogeveen	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0119	Meppel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0140	Littenseradiel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0141	Almelo	8	8	8	8	8	8	8	8	8	8	8	8	8	8
+GM0144	Bathmen	-999999999	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0147	Borne	1	1	1	1	1	1	1	1	2	1	2	1	1	1
+GM0148	Dalfsen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0150	Deventer	7	7	7	7	7	7	7	7	7	7	7	7	7	7
+GM0153	Enschede	6	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM0158	Haaksbergen	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0160	Hardenberg	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0163	Hellendoorn	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0164	Hengelo (O.)	6	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM0166	Kampen	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0168	Losser	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0171	Noordoostpolder	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0173	Oldenzaal	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0175	Ommen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0177	Raalte	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0180	Staphorst	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0183	Tubbergen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0184	Urk	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0189	Wierden	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0193	Zwolle	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0196	Rijnwaarden	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0197	Aalten	2	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0199	Angerlo	-999999999	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0200	Apeldoorn	2	2	3	3	3	3	3	3	3	3	3	3	3	3
+GM0202	Arnhem	5	5	5	5	6	5	5	5	5	5	5	5	5	5
+GM0203	Barneveld	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0207	Bergh	1	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0209	Beuningen	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+GM0211	Borculo	0	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0213	Brummen	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0214	Buren	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0216	Culemborg	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0218	Didam	0	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0219	Dinxperlo	0	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0221	Doesburg	7	7	7	7	7	7	7	7	7	7	7	6	6	6
+GM0222	Doetinchem	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0225	Druten	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0226	Duiven	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0228	Ede	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0229	Eibergen	0	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0230	Elburg	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0232	Epe	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0233	Ermelo	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0236	Geldermalsen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0237	Gendringen	4	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0239	Gorssel	0	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0240	Groenlo	1	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM0241	Groesbeek	0	0	0	0	0	0	0	0	0	0	0	0	null	null
+GM0243	Harderwijk	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0244	Hattem	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0246	Heerde	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0248	Hengelo (Gld.)	0	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0252	Heumen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0256	Hummelo en Keppel	0	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0260	Lichtenvoorde	0	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0262	Lochem	2	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0263	Maasdriel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0265	Millingen aan de Rijn	-999999999	0	0	0	0	0	0	0	0	0	0	null	null	null
+GM0266	Neede	1	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0267	Nijkerk	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0268	Nijmegen	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0269	Oldebroek	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0273	Putten	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0274	Renkum	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0275	Rheden	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0277	Rozendaal	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0278	Ruurlo	0	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0279	Scherpenzeel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0280	Steenderen	0	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0281	Tiel	5	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM0282	Ubbergen	0	0	0	0	0	0	0	0	0	0	0	null	null	null
+GM0285	Voorst	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0286	Vorden	0	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0289	Wageningen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0291	Warnsveld	0	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0292	Wehl	0	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0293	Westervoort	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0294	Winterswijk	1	1	1	2	2	2	2	1	2	1	2	2	2	2
+GM0295	Wisch	4	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0296	Wijchen	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0297	Zaltbommel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0298	Zelhem	1	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM0299	Zevenaar	2	1	1	2	2	2	2	2	2	2	2	2	2	2
+GM0301	Zutphen	4	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0302	Nunspeet	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0303	Dronten	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0304	Neerijnen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0305	Abcoude	0	0	0	0	0	0	0	null	null	null	null	null	null	null
+GM0306	Amerongen	0	0	null	null	null	null	null	null	null	null	null	null	null	null
+GM0307	Amersfoort	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0308	Baarn	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0310	De Bilt	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0311	Breukelen	0	0	0	0	0	0	0	null	null	null	null	null	null	null
+GM0312	Bunnik	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0313	Bunschoten	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0315	Doorn	0	0	null	null	null	null	null	null	null	null	null	null	null	null
+GM0316	Driebergen-Rijsenburg	1	1	null	null	null	null	null	null	null	null	null	null	null	null
+GM0317	Eemnes	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0321	Houten	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0326	Leersum	0	0	null	null	null	null	null	null	null	null	null	null	null	null
+GM0327	Leusden	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0329	Loenen	1	1	1	1	1	1	1	null	null	null	null	null	null	null
+GM0331	Lopik	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0332	Maarn	0	0	null	null	null	null	null	null	null	null	null	null	null	null
+GM0333	Maarssen	1	1	1	1	1	1	1	null	null	null	null	null	null	null
+GM0335	Montfoort	0	0	0	0	0	0	0	0	0	0	0	1	1	1
+GM0339	Renswoude	-999999999	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0340	Rhenen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0342	Soest	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0344	Utrecht	4	5	5	4	4	4	4	4	4	4	4	4	4	4
+GM0345	Veenendaal	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0351	Woudenberg	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0352	Wijk bij Duurstede	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0353	IJsselstein	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0355	Zeist	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0356	Nieuwegein	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0358	Aalsmeer	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0361	Alkmaar	3	3	3	3	3	3	3	3	3	3	3	3	2	2
+GM0362	Amstelveen	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0363	Amsterdam	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0364	Andijk	0	0	0	0	0	0	0	null	null	null	null	null	null	null
+GM0365	Graft-De Rijp	0	0	0	0	0	0	0	0	0	0	0	null	null	null
+GM0366	Anna Paulowna	0	0	0	0	0	0	0	0	null	null	null	null	null	null
+GM0370	Beemster	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0372	Bennebroek	0	0	0	0	0	null	null	null	null	null	null	null	null	null
+GM0373	Bergen (NH.)	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0375	Beverwijk	4	4	4	5	5	5	5	5	5	5	5	5	5	5
+GM0376	Blaricum	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+GM0377	Bloemendaal	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0381	Bussum	1	1	1	1	1	1	1	1	1	1	1	1	null	null
+GM0383	Castricum	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0384	Diemen	2	2	2	2	2	3	3	3	3	3	3	3	3	3
+GM0385	Edam-Volendam	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0388	Enkhuizen	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0392	Haarlem	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0393	Haarlemmerliede c.a.	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+GM0394	Haarlemmermeer	1	1	1	1	1	1	1	1	1	1	1	1	1	2
+GM0395	Harenkarspel	0	0	0	0	0	0	0	0	0	null	null	null	null	null
+GM0396	Heemskerk	3	3	3	3	2	3	3	3	3	3	3	3	3	3
+GM0397	Heemstede	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0398	Heerhugowaard	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0399	Heiloo	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0400	Den Helder	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0402	Hilversum	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0405	Hoorn	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0406	Huizen	1	1	2	2	2	2	2	2	2	2	2	2	2	2
+GM0412	Niedorp	0	0	0	0	0	0	0	0	null	null	null	null	null	null
+GM0415	Landsmeer	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0416	Langedijk	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0417	Laren	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0420	Medemblik	5	5	5	1	1	1	1	1	1	1	1	1	1	1
+GM0424	Muiden	0	0	0	0	0	0	0	0	1	0	0	1	null	null
+GM0425	Naarden	0	0	0	0	0	0	0	0	0	0	0	0	null	null
+GM0429	Obdam	-999999999	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM0431	Oostzaan	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0432	Opmeer	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0437	Ouder-Amstel	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+GM0439	Purmerend	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0441	Schagen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0448	Texel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0450	Uitgeest	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0451	Uithoorn	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0453	Velsen	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0454	Venhuizen	0	0	null	null	null	null	null	null	null	null	null	null	null	null
+GM0457	Weesp	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0458	Schermer	0	0	0	0	0	0	0	0	0	0	0	null	null	null
+GM0459	Wervershoof	0	0	0	0	0	0	0	null	null	null	null	null	null	null
+GM0462	Wieringen	0	0	0	0	0	0	0	0	null	null	null	null	null	null
+GM0463	Wieringermeer	0	0	0	0	0	0	0	0	null	null	null	null	null	null
+GM0466	Wognum	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM0473	Zandvoort	1	1	0	1	0	0	0	0	1	1	1	1	1	1
+GM0476	Zijpe	0	0	0	0	0	0	0	0	0	null	null	null	null	null
+GM0478	Zeevang	0	0	0	0	0	0	0	0	0	0	0	0	null	null
+GM0479	Zaanstad	7	7	7	7	7	7	8	8	8	8	8	8	8	8
+GM0480	Ter Aar	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM0482	Alblasserdam	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0483	Alkemade	0	0	0	0	0	null	null	null	null	null	null	null	null	null
+GM0484	Alphen aan den Rijn	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0489	Barendrecht	1	1	1	2	2	2	2	2	3	3	3	3	3	3
+GM0491	Bergambacht	0	0	0	0	0	0	0	0	0	0	0	null	null	null
+GM0492	Bergschenhoek	1	1	1	null	null	null	null	null	null	null	null	null	null	null
+GM0493	Berkel en Rodenrijs	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM0495	Bleiswijk	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM0497	Bodegraven	0	0	0	0	0	0	0	null	null	null	null	null	null	null
+GM0498	Drechterland	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0499	Boskoop	0	0	0	0	0	0	0	0	0	0	null	null	null	null
+GM0501	Brielle	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+GM0502	Capelle aan den IJssel	1	1	1	1	1	1	1	2	2	2	2	2	2	2
+GM0503	Delft	2	2	2	2	3	3	3	3	3	3	3	3	2	2
+GM0504	Dirksland	0	0	0	0	0	0	0	0	0	null	null	null	null	null
+GM0505	Dordrecht	5	5	5	5	5	5	5	6	6	6	6	6	6	6
+GM0511	Goedereede	0	0	0	0	0	0	0	0	0	null	null	null	null	null
+GM0512	Gorinchem	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0513	Gouda	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0517	's-Gravendeel	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM0518	's-Gravenhage	7	7	7	7	7	7	7	7	7	7	7	7	8	8
+GM0523	Hardinxveld-Giessendam	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0529	Noorder-Koggenland	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM0530	Hellevoetsluis	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0531	Hendrik-Ido-Ambacht	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0532	Stede Broec	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0534	Hillegom	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0537	Katwijk	1	1	1	1	0	0	0	0	0	0	0	0	1	1
+GM0542	Krimpen aan den IJssel	0	0	0	0	0	0	0	1	1	1	1	1	1	1
+GM0545	Leerdam	9	9	9	9	9	9	9	9	9	9	9	9	9	9
+GM0546	Leiden	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0547	Leiderdorp	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0553	Lisse	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0556	Maassluis	6	6	6	6	6	6	6	6	6	6	6	6	6	6
+GM0558	Wester-Koggenland	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM0559	Middelharnis	0	0	0	0	0	0	0	0	0	null	null	null	null	null
+GM0563	Moordrecht	0	0	0	0	0	0	null	null	null	null	null	null	null	null
+GM0567	Nieuwerkerk aan den IJssel	0	0	0	0	0	0	null	null	null	null	null	null	null	null
+GM0568	Bernisse	0	0	0	0	0	0	0	0	0	0	0	null	null	null
+GM0569	Nieuwkoop	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0571	Nieuw-Lekkerland	0	0	0	0	0	0	0	0	0	null	null	null	null	null
+GM0575	Noordwijk	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0576	Noordwijkerhout	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0579	Oegstgeest	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+GM0580	Oostflakkee	0	0	0	0	0	0	0	0	0	null	null	null	null	null
+GM0584	Oud-Beijerland	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0585	Binnenmaas	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0588	Korendijk	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0589	Oudewater	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0590	Papendrecht	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0595	Reeuwijk	0	0	0	0	0	0	0	null	null	null	null	null	null	null
+GM0597	Ridderkerk	1	1	1	1	1	1	1	1	1	1	2	2	2	2
+GM0599	Rotterdam	7	8	8	8	8	8	8	8	8	8	8	8	8	8
+GM0600	Rozenburg	2	2	2	2	2	2	2	null	null	null	null	null	null	null
+GM0602	Rijnsburg	0	0	null	null	null	null	null	null	null	null	null	null	null	null
+GM0603	Rijswijk	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0604	Sassenheim	1	1	null	null	null	null	null	null	null	null	null	null	null	null
+GM0606	Schiedam	9	9	9	9	10	10	10	10	10	10	10	10	10	10
+GM0608	Schoonhoven	0	0	0	0	0	0	0	0	0	0	0	null	null	null
+GM0610	Sliedrecht	2	2	2	2	3	2	2	2	2	2	2	2	2	2
+GM0611	Cromstrijen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0612	Spijkenisse	1	1	1	1	1	1	1	1	1	1	1	null	null	null
+GM0613	Albrandswaard	1	1	1	1	1	1	1	1	1	1	2	2	2	2
+GM0614	Westvoorne	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0617	Strijen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0619	Valkenburg	0	0	null	null	null	null	null	null	null	null	null	null	null	null
+GM0620	Vianen	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0622	Vlaardingen	6	6	6	6	6	6	6	6	7	7	7	7	7	7
+GM0623	Vlist	0	0	0	0	0	0	0	0	0	0	0	null	null	null
+GM0625	Voorhout	0	0	null	null	null	null	null	null	null	null	null	null	null	null
+GM0626	Voorschoten	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0627	Waddinxveen	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0628	Warmond	0	0	null	null	null	null	null	null	null	null	null	null	null	null
+GM0629	Wassenaar	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0632	Woerden	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0637	Zoetermeer	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0638	Zoeterwoude	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0642	Zwijndrecht	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0643	Nederlek	0	0	0	0	0	0	0	0	0	0	0	null	null	null
+GM0644	Ouderkerk	-999999999	0	0	0	0	0	0	0	0	0	0	null	null	null
+GM0645	Jacobswoude	0	0	0	0	0	null	null	null	null	null	null	null	null	null
+GM0653	Gaasterlân-Sleat	-999999999	0	0	0	0	0	0	0	0	0	null	null	null	null
+GM0654	Borsele	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0664	Goes	0	0	0	1	1	1	0	0	1	1	0	1	1	1
+GM0668	West Maas en Waal	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0677	Hulst	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0678	Kapelle	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0683	Wymbritseradiel	0	0	0	0	0	0	0	null	null	null	null	null	null	null
+GM0687	Middelburg	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0689	Giessenlanden	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0693	Graafstroom	0	0	0	0	0	0	0	0	0	null	null	null	null	null
+GM0694	Liesveld	0	0	0	0	0	0	0	0	0	null	null	null	null	null
+GM0703	Reimerswaal	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0707	Zederik	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0710	Wûnseradiel	0	0	0	0	0	0	0	null	null	null	null	null	null	null
+GM0715	Terneuzen	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0716	Tholen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0717	Veere	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0718	Vlissingen	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0733	Lingewaal	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0736	De Ronde Venen	1	1	1	1	1	1	1	0	0	0	1	1	1	1
+GM0737	Tytsjerksteradiel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0738	Aalburg	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0743	Asten	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0744	Baarle-Nassau	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0748	Bergen op Zoom	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0753	Best	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0755	Boekel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0756	Boxmeer	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0757	Boxtel	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0758	Breda	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0762	Deurne	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0765	Pekela	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0766	Dongen	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0770	Eersel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0772	Eindhoven	4	4	4	5	5	5	5	5	5	5	5	5	5	5
+GM0777	Etten-Leur	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0779	Geertruidenberg	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0784	Gilze en Rijen	3	3	3	3	3	3	3	4	4	4	4	4	4	4
+GM0785	Goirle	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0786	Grave	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0788	Haaren	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0794	Helmond	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0796	's-Hertogenbosch	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+GM0797	Heusden	3	3	3	3	3	3	3	3	3	3	3	3	2	2
+GM0798	Hilvarenbeek	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0808	Lith	0	0	0	0	0	0	0	null	null	null	null	null	null	null
+GM0809	Loon op Zand	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0815	Mill en Sint Hubert	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0820	Nuenen c.a.	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0823	Oirschot	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0824	Oisterwijk	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+GM0826	Oosterhout	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0828	Oss	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+GM0840	Rucphen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0844	Schijndel	0	0	0	0	0	0	0	0	0	0	0	0	0	null
+GM0845	Sint-Michielsgestel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0846	Sint-Oedenrode	0	0	0	0	0	0	0	0	0	0	0	0	0	null
+GM0847	Someren	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0848	Son en Breugel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0851	Steenbergen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0852	Waterland	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0855	Tilburg	3	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0856	Uden	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0858	Valkenswaard	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0860	Veghel	4	4	4	4	4	4	4	4	4	4	4	4	4	null
+GM0861	Veldhoven	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0865	Vught	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0866	Waalre	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0867	Waalwijk	3	3	3	3	4	4	4	4	4	4	4	3	3	3
+GM0870	Werkendam	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0873	Woensdrecht	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0874	Woudrichem	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0879	Zundert	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0880	Wormerland	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0881	Onderbanken	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0882	Landgraaf	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0885	Arcen en Velden	0	0	0	0	0	0	null	null	null	null	null	null	null	null
+GM0888	Beek	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0889	Beesel	1	1	1	1	0	1	1	1	1	1	1	1	1	1
+GM0893	Bergen (L.)	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0899	Brunssum	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0905	Eijsden	0	0	0	0	0	0	0	null	null	null	null	null	null	null
+GM0907	Gennep	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0914	Haelen	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM0917	Heerlen	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0918	Helden	1	1	1	1	1	1	null	null	null	null	null	null	null	null
+GM0920	Heythuysen	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM0925	Hunsel	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM0928	Kerkrade	0	0	0	0	0	1	1	1	1	1	1	1	1	1
+GM0929	Kessel	-999999999	0	0	0	0	0	null	null	null	null	null	null	null	null
+GM0933	Maasbracht	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM0934	Maasbree	0	0	0	0	0	0	null	null	null	null	null	null	null	null
+GM0935	Maastricht	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0936	Margraten	0	0	0	0	0	0	0	null	null	null	null	null	null	null
+GM0938	Meerssen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0941	Meijel	-999999999	0	0	0	0	0	null	null	null	null	null	null	null	null
+GM0944	Mook en Middelaar	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0946	Nederweert	-999999999	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0951	Nuth	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0957	Roermond	4	5	5	4	4	4	4	4	4	4	4	4	4	4
+GM0962	Schinnen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0964	Sevenum	0	0	0	0	0	0	null	null	null	null	null	null	null	null
+GM0965	Simpelveld	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0971	Stein	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0975	Swalmen	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM0977	Thorn	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM0981	Vaals	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0983	Venlo	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM0984	Venray	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM0986	Voerendaal	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0988	Weert	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM0993	Meerlo-Wanssum	0	0	0	0	0	0	null	null	null	null	null	null	null	null
+GM0994	Valkenburg aan de Geul	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM0995	Lelystad	2	2	2	2	2	2	2	2	3	2	2	3	2	3
+GM1507	Horst aan de Maas	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1651	Eemsmond	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1652	Gemert-Bakel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1655	Halderberge	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM1658	Heeze-Leende	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1659	Laarbeek	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1661	Reiderland	0	0	0	0	0	0	null	null	null	null	null	null	null	null
+GM1663	De Marne	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1666	Zevenhuizen-Moerkapelle	0	0	0	0	0	0	null	null	null	null	null	null	null	null
+GM1667	Reusel-De Mierden	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1669	Roerdalen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1670	Roggel en Neer	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM1671	Maasdonk	0	0	0	0	0	0	0	0	0	0	0	null	null	null
+GM1672	Rijnwoude	0	0	0	0	0	0	0	0	0	0	null	null	null	null
+GM1673	Liemeer	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM1674	Roosendaal	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM1676	Schouwen-Duiveland	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1679	Ambt Montfort	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM1680	Aa en Hunze	0	0	0	0	0	0	0	1	1	0	0	0	0	0
+GM1681	Borger-Odoorn	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1684	Cuijk	3	3	4	4	4	4	4	4	4	4	4	4	4	4
+GM1685	Landerd	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1690	De Wolden	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1695	Noord-Beveland	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1696	Wijdemeren	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1699	Noordenveld	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1700	Twenterand	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1701	Westerveld	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1702	Sint Anthonis	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1705	Lingewaard	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1706	Cranendonck	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1708	Steenwijkerland	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM1709	Moerdijk	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM1711	Echt-Susteren	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1714	Sluis	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1719	Drimmelen	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1721	Bernheze	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1722	Ferwerderadiel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1723	Alphen-Chaam	-999999999	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1724	Bergeijk	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1728	Bladel	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1729	Gulpen-Wittem	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1730	Tynaarlo	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1731	Midden-Drenthe	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1734	Overbetuwe	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM1735	Hof van Twente	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM1740	Neder-Betuwe	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1742	Rijssen-Holten	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+GM1771	Geldrop-Mierlo	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM1773	Olst-Wijhe	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM1774	Dinkelland	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1783	Westland	0	0	0	0	0	0	1	1	1	1	1	1	1	1
+GM1842	Midden-Delfland	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1883	Sittard-Geleen	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM1896	Zwartewaterland	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1916	Leidschendam-Voorburg	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM1926	Pijnacker-Nootdorp	0	0	1	1	1	1	1	1	1	1	1	1	1	1
+GM1937	Heel	0	0	0	null	null	null	null	null	null	null	null	null	null	null
+GM1987	Menterwolde	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM9999		null	null	null	null	null	null	null	null	null	null	null	null	null	null
+GM1509	Oude IJsselstreek	null	4	4	4	4	4	4	4	4	4	4	4	4	4
+GM1859	Berkelland	null	0	0	0	0	1	0	0	0	0	0	0	0	0
+GM1876	Bronckhorst	null	0	0	0	0	0	0	0	0	0	0	0	0	0
+GM1955	Montferland	null	1	1	1	1	1	1	1	1	1	1	1	1	1
+GM1525	Teylingen	null	null	0	0	0	0	0	0	0	0	0	0	0	0
+GM1581	Utrechtse Heuvelrug	null	null	1	1	1	1	1	1	1	1	1	1	1	1
+GM1586	Oost Gelre	null	null	null	0	0	0	0	0	0	0	0	0	0	0
+GM1598	Koggenland	null	null	null	0	0	0	0	0	0	0	0	0	0	0
+GM1621	Lansingerland	null	null	null	1	1	1	1	1	1	1	1	1	1	1
+GM1640	Leudal	null	null	null	0	0	0	0	0	0	0	0	0	0	0
+GM1641	Maasgouw	null	null	null	0	0	0	0	0	0	0	0	0	0	0
+GM1884	Kaag en Braassem	null	null	null	null	null	0	0	0	0	0	0	0	0	0
+GM1891	Dantumadiel	null	null	null	null	null	0	0	0	0	0	0	0	0	0
+GM1892	Zuidplas	null	null	null	null	null	null	0	0	0	0	0	0	0	0
+GM1894	Peel en Maas	null	null	null	null	null	null	1	1	1	1	1	1	1	1
+GM1895	Oldambt	null	null	null	null	null	null	0	0	0	0	0	0	0	0
+GM1900	Sûdwest Fryslân	null	null	null	null	null	null	null	0	0	0	0	0	0	0
+GM1901	Bodegraven-Reeuwijk	null	null	null	null	null	null	null	0	0	0	0	0	0	0
+GM1903	Eijsden-Margraten	null	null	null	null	null	null	null	0	0	0	0	0	0	0
+GM1904	Stichtse Vecht	null	null	null	null	null	null	null	1	1	1	1	1	1	1
+GM1908	Menameradiel	null	null	null	null	null	null	null	0	0	0	0	0	0	0
+GM1911	Hollands Kroon	null	null	null	null	null	null	null	null	0	0	0	0	0	0
+GM1924	Goeree-Overflakkee	null	null	null	null	null	null	null	null	null	0	0	0	0	0
+GM1927	Molenwaard	null	null	null	null	null	null	null	null	null	0	0	0	0	0
+GM1921	De Friese Meren	null	null	null	null	null	null	null	null	null	null	0	0	null	null
+GM1930	Nissewaard	null	null	null	null	null	null	null	null	null	null	null	1	1	1
+GM1931	Krimpenerwaard	null	null	null	null	null	null	null	null	null	null	null	0	0	0
+GM1940	De Fryske Marren	null	null	null	null	null	null	null	null	null	null	null	null	0	0
+GM1942	Gooise Meren	null	null	null	null	null	null	null	null	null	null	null	null	1	1
+GM1945	Berg en Dal	null	null	null	null	null	null	null	null	null	null	null	null	0	0
+GM1948	Meierijstad	null	null	null	null	null	null	null	null	null	null	null	null	null	2
