@@ -33,7 +33,7 @@ Detailed Usage:
 
 The usage of the code can be found below.
 
-usage: myapp [-A <arg>] [-B <arg>] [-C] [-fC1 <arg>] [-fC2 <arg>] [-fC3
+usage: java -Djava.library.path=[path_to_project]/code/StableDemers_TVCG/lib -Xmx8192m -jar [path_to_project]/code/StableDemers_TVCG/StableDemers_TVCG.jar [-A <arg>] [-B <arg>] [-C] [-fC1 <arg>] [-fC2 <arg>] [-fC3
        <arg>] [-fC4 <arg>] [-fCo <arg>] [-fIt <arg>] [-fMM <arg>] [-fSp
        <arg>] [-I <arg>] [-L <arg>] [-lpC0] [-lpC1] [-lpC2] [-lpC3 <arg>]
        [-lpC4 <arg>] [-lpC5 <arg>] [-lpC6 <arg>] [-lpC7 <arg>] [-lpLInf]
