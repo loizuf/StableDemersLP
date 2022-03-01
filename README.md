@@ -2,7 +2,7 @@
 Supplementary material (inparticular the source code) for "Computing Stable Demers Cartograms" submitted to TVCG and currently under review.
 We provide scripts to setup and run the project for ease of use. This will be outlined first. Below that you can find a detailed explanation of the usage of our program.
 
-Further, we use CPLEX as an LP and ILP solver. CPLEX provides free academic licenses, which is in line for the requirements of the Replicability Stamp. However it is not feasible to automate the installation process. We refer to instruction on the IBM webpage (https://www.ibm.com/docs/en/icos/12.8.0.0?topic=cplex-setting-up), explaining how to set up and install CPLEX for java.
+Further, we use CPLEX 12.8 as an LP and ILP solver. CPLEX provides free academic licenses, which is in line for the requirements of the Replicability Stamp. However it is not feasible to automate the installation process. We refer to instruction on the IBM webpage (https://www.ibm.com/docs/en/icos/12.8.0.0?topic=cplex-setting-up), explaining how to set up and install CPLEX for java.
 
 Scripts:
 
