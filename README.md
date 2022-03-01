@@ -185,6 +185,14 @@ usage: myapp [-A <arg>] [-B <arg>] [-C] [-fC1 <arg>] [-fC2 <arg>] [-fC3
         -W,--Weights <arg>                          The file containing the
                                                     weight data
 
+
+We provide an installation script in setup.sh. This needs to be execute as root.
+              
+Further, we use CPLEX as an LP and ILP solver. CPLEX provides free academic licenses, which is in line for the requirements of the Replicability Stamp. However it is not feasible to automate the installation process. We refer to instruction on the IBM webpage (https://www.ibm.com/docs/en/icos/12.8.0.0?topic=cplex-setting-up), explaining how to set up and install CPLEX for java.
 One example executions is:
               
-          java -Djava.library.path=[path_to_project]/code/StableDemers_TVCG/lib -Xmx8192m Main.Main -O testing/outs/ -T data/topo/USA_adjacencies.tsv -L data/locs/USA_locs.tsv -S data/stability/complete-4.tsv -W data/weights/USA/Mixed.tsv -B data/bbs/USA.tsv -N data/norm/Sum-Ind-4.tsv -NoI -NoR -lpC1 -lpC3 1 -lpC7 0.01
+          java -Djava.library.path=[path_to_project]/code/StableDemers_TVCG/lib -classpath [path_to_folder_containing]/cplex.jar -Xmx8192m Main.Main -O testing/outs/ -T data/topo/USA_adjacencies.tsv -L data/locs/USA_locs.tsv -S data/stability/complete-4.tsv -W data/weights/USA/Mixed.tsv -B data/bbs/USA.tsv -N data/norm/Sum-Ind-4.tsv -NoI -NoR -lpC1 -lpC3 1 -lpC7 0.01
+              
+It is important that the folder, which -Djava.library.path points to, i.e., code/StableDemers_TVCG/lib, contains the CPLEX shared library, which is system dependent. For example, in the case of Linux and CPLEX 12.8, this is libcplex1280.so.
+It is also important that the java classpath contains the cplex.jar file.
+For more information, we refer to IBM's information about paths and jars (https://www.ibm.com/docs/en/icos/12.8.0.0?topic=applications-paths-jars).
