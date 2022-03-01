@@ -1,5 +1,35 @@
 # StableDemersLP
 Supplementary material (inparticular the source code) for "Computing Stable Demers Cartograms" submitted to TVCG and currently under review.
+We provide scripts to setup and run the project for ease of use. This will be outlined first. Below that you can find a detailed explanation of the usage of our program.
+
+Further, we use CPLEX as an LP and ILP solver. CPLEX provides free academic licenses, which is in line for the requirements of the Replicability Stamp. However it is not feasible to automate the installation process. We refer to instruction on the IBM webpage (https://www.ibm.com/docs/en/icos/12.8.0.0?topic=cplex-setting-up), explaining how to set up and install CPLEX for java.
+
+Scripts:
+
+First all scripts need to be executed as root and they need to be made executable beforehand.
+
+       chmod +x prepare.sh
+       chmod +x run.sh
+       
+Then one needs to execute prepare.sh
+       
+       sudo ./prepare.sh
+       
+This will install Java, git, unzip and clone this repository
+
+Now it is important that the folder StableDemersLP/code/StableDemers_TVCG/lib, contains the CPLEX shared library, which is system dependent. For example, in the case of Linux and CPLEX 12.8, this is libcplex1280.so.
+Please copy the appropriate shared library into this folder.
+For more information, we refer to IBM's information about paths and jars (https://www.ibm.com/docs/en/icos/12.8.0.0?topic=applications-paths-jars).
+
+Now everything is prepared to run the example execution using:
+       
+       sudo ./run.sh
+       
+Note that this loads the data, computes a cartogram and displays it in an interactive GUI, but the instance is hard-coded into run.sh. For computation of other instances, please refer to the detailed description of usage below.
+
+
+Detailed Usage:
+
 
 The usage of the code can be found below.
 
@@ -185,14 +215,10 @@ usage: myapp [-A <arg>] [-B <arg>] [-C] [-fC1 <arg>] [-fC2 <arg>] [-fC3
         -W,--Weights <arg>                          The file containing the
                                                     weight data
 
-
-We provide an installation script in setup.sh. This needs to be execute as root.
               
-Further, we use CPLEX as an LP and ILP solver. CPLEX provides free academic licenses, which is in line for the requirements of the Replicability Stamp. However it is not feasible to automate the installation process. We refer to instruction on the IBM webpage (https://www.ibm.com/docs/en/icos/12.8.0.0?topic=cplex-setting-up), explaining how to set up and install CPLEX for java.
 One example executions is:
               
-          java -Djava.library.path=[path_to_project]/code/StableDemers_TVCG/lib -classpath [path_to_folder_containing]/cplex.jar -Xmx8192m Main.Main -O testing/outs/ -T data/topo/USA_adjacencies.tsv -L data/locs/USA_locs.tsv -S data/stability/complete-4.tsv -W data/weights/USA/Mixed.tsv -B data/bbs/USA.tsv -N data/norm/Sum-Ind-4.tsv -NoI -NoR -lpC1 -lpC3 1 -lpC7 0.01
+          java -Djava.library.path=[path_to_project]/code/StableDemers_TVCG/lib -Xmx8192m -jar [path_to_project]/code/StableDemers_TVCG/StableDemers_TVCG.jar -O [path_to_project]/code/StableDemers_TVCG/testing/outs/ -T [path_to_project]/code/StableDemers_TVCG/data/topo/USA_adjacencies.tsv -L [path_to_project]/code/StableDemers_TVCG/data/locs/USA_locs.tsv -S [path_to_project]/code/StableDemers_TVCG/data/stability/complete-4.tsv -W [path_to_project]/code/StableDemers_TVCG/data/weights/USA/Mixed.tsv -B [path_to_project]/code/StableDemers_TVCG/data/bbs/USA.tsv -N [path_to_project]/code/StableDemers_TVCG/data/norm/Sum-Ind-4.tsv -NoI -NoR -lpC1 -lpC3 1 -lpC7 0.01
               
 It is important that the folder, which -Djava.library.path points to, i.e., code/StableDemers_TVCG/lib, contains the CPLEX shared library, which is system dependent. For example, in the case of Linux and CPLEX 12.8, this is libcplex1280.so.
-It is also important that the java classpath contains the cplex.jar file.
 For more information, we refer to IBM's information about paths and jars (https://www.ibm.com/docs/en/icos/12.8.0.0?topic=applications-paths-jars).
