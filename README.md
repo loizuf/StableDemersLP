@@ -15,7 +15,7 @@ Then one needs to execute prepare.sh
        
        sudo ./prepare.sh
        
-This will install Java, git, unzip and clone this repository
+This will install Java via javainstaller.sh (https://github.com/chrishantha/install-java), git, unzip and clone this repository
 
 Now it is important that the folder StableDemersLP/code/StableDemers_TVCG/lib, contains the CPLEX shared library, which is system dependent. For example, in the case of Linux and CPLEX 12.8, this is libcplex1280.so.
 Please copy the appropriate shared library into this folder.
